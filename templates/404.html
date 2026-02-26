@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Strona nie znaleziona - Acta Alexandri</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <header class="bg-white border-bottom shadow-sm py-4 mb-5">
+        <div class="container d-flex justify-content-between align-items-center">
+            <h1 class="mb-0 fs-3" style="color: #2c3e50; font-weight: 700;">Acta Alexandri Regis Poloniae</h1>
+        </div>
+    </header>
+
+    <div class="container mb-5 text-center" style="margin-top: 10vh;">
+        <h1 class="display-1 text-muted fw-bold mb-3" style="opacity: 0.3;">404</h1>
+        <h2 class="mb-4">Karta nie została znaleziona</h2>
+        <p class="lead text-muted mb-5">
+            Przepraszamy, ale dokument lub strona, której szukasz, nie istnieje w naszej bazie<br>
+            lub adres URL zawiera błąd.
+        </p>
+        <a href="{{ url_for('index') }}" class="btn btn-outline-custom btn-lg px-5">
+            &larr; Strona główna
+        </a>
+    </div>
+
+</body>
+</html>

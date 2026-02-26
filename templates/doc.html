@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ doc.title }} - Acta Alexandri</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+  <header class="bg-white border-bottom shadow-sm py-3 mb-4">
+        <div class="container d-flex justify-content-between align-items-center">
+            <h1 class="mb-0 fs-4" style="color: #2c3e50; font-weight: 700;">Acta Alexandri Regis Poloniae</h1>
+            
+            <div class="d-flex align-items-center">
+                
+                <div class="text-end d-none d-md-block me-4">
+                    <span class="badge bg-primary">Osoby</span> 
+                    <span class="badge bg-success">Miejsca</span>
+                    <small class="text-muted ms-1">(Kliknij na słowo lub czerwony przypis)</small>
+                </div>
+                
+                <a href="{{ url_for('index') }}" class="btn btn-outline-secondary btn-sm">&larr; Strona główna</a>
+            </div>
+        </div>
+    </header>
+
+    <div class="container mb-5">
+        <div class="card shadow-sm mb-4">
+            <div class="card-body text-center">
+                <h2 class="h1">{{ doc.title }}</h2>
+                <h4 class="text-muted">{{ doc.date_place_html | safe }}</h4>
+                <p class="lead mt-3">{{ doc.summary_html | safe }}</p>
+                
+                {% if doc.source_html %}
+                <p class="small text-muted fst-italic mt-4 border-top pt-2">
+                    <strong>Źródło:</strong> {{ doc.source_html | safe }}
+                </p>
+                {% endif %}
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6 border-end">
+                <h3 class="border-bottom pb-2 mb-3">Tekst oryginalny (Łacina)</h3>
+                <div class="doc-text">
+                    {{ doc.original_html | safe }}
+                </div>
+            </div>
+            
+            <div class="col-md-6">
+                <h3 class="border-bottom pb-2 mb-3">Tłumaczenie (Polski)<a class="text-danger text-decoration-none fw-bold mx-1" data-bs-content="Tłumaczenie przygotowane automatycznie." data-bs-placement="top" data-bs-toggle="popover" data-bs-trigger="focus" role="button" tabindex="0" title="*"><sup>*</sup></a></h3>
+                <div class="doc-text">
+                    {{ doc.translation_html | safe }}
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js"></script>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            // inicjalizacja dymków z przypisami
+            var popoverTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="popover"]'))
+            var popoverList = popoverTriggerList.map(function (popoverTriggerEl) {
+                return new bootstrap.Popover(popoverTriggerEl)
+            });
+
+            // podświetlanie szukanych słów
+            const urlParams = new URLSearchParams(window.location.search);
+            const query = urlParams.get('q'); // parametr 'q' z paska adresu
+            
+            if (query) {
+                var instance = new Mark(document.body);
+                instance.mark(query, {
+                    "element": "mark",
+                    "className": "bg-warning text-dark rounded px-1" // dla estetycznego podświetlenia
+                });
+            }
+        });
+    </script>
+</body>
+</html>

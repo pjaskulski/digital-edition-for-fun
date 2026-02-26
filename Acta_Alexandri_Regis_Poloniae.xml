@@ -1,0 +1,2453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Acta Alexandri Regis Poloniae, Magni Ducis Lithuaniae etc. (1501-1506) ; Akta
+                    Aleksandra króla polskiego, wielkiego księcia litewskiego i t. d. (1501-1506)</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Edycja cyfrowa na podstawie wydania z 1927 r.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Skany stron z zasobów Kujawsko-Pomorskiej Biblioteki Cyfrowej (domena publiczna)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1" />
+            <fw type="header">Nr. 1.</fw>
+            <div n="1" type="document">
+                <head>Nr. 1.</head>
+                <ab type="date-place">B. m. d. r. <supplied reason="reconstruction">( <placeName
+                            key="Gniezno" ref="http://www.wikidata.org/entity/Q51432">Gniezno</placeName>
+                    <date
+                            notAfter="1501-06-18" notBefore="1501-06-17">17 lub
+                            18 czerwca 1501</date>) </supplied>. </ab>
+                <ab type="summary">
+                    <persName key="Fryderyk Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q673151">Fryderyk</persName> do panów
+                    rady: donosi o śmierci króla <persName key="Jan I Olbracht"
+                        ref="http://www.wikidata.org/entity/Q53451">Olbrachta</persName>, zaprasza
+                    ich do <placeName key="Kraków" ref="http://www.wikidata.org/entity/Q31487">
+                    Krakowa</placeName> dla objęcia zarządu, dokąd sam przybędzie po naradzie z
+                    panami wielkopolskimi i po przyłączeniu się do pochodu pogrzebowego.</ab>
+                <ab type="source">Dwie kopje z Tomic.: 1. P. 126—7 i 2. R. 114—115. — 3. T. N. 24,
+                    401—2 ex 2. Reg. Gołębiowski III 452 uw. 1. ex 3.</ab>
+                <div type="original" xml:lang="la">
+                    <p>
+                        <persName key="Fryderyk Jagiellończyk"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q152903">Fridericus</persName>
+                        cardinalis consiliariis regni <placeName key="Polska"
+                            ref="http://www.wikidata.org/entity/Q171348">Poloniae</placeName>. </p>
+                    <p>Magnifice domine, amice noster dilecte! Ante biduum scripserant nobis domini
+                        consiliarii Regni, qui in <placeName key="Prusy"
+                            ref="http://www.wikidata.org/entity/Q918723">Prussia</placeName> sunt,
+                        de gravissima aegritudine ser<hi rend="superscript">mi</hi> olim domini
+                        nostri, tamen de extremo fine vitae eius nihil significaverant, tantummodo
+                        vocabant nos, ut illuc accurreremus. Scripsissemus hanc ipsam novitatem iam
+                        tunc V. M<hi rend="superscript">ciae</hi>, sed voluimus expectare, ut
+                        aliquid certius illi significaremus. Nunc itaque hora vesperorum
+                        intelleximus, ipsum dominum nostrum diem clausisse extremum<note
+                            n="page_1-1" place="foot">W rękopisie <hi rend="italic">P.</hi> str. 119
+                        jest uwaga czerw. atramentem: »<persName key="Jan Olbracht"
+                                ref="http://www.wikidata.org/entity/Q53451">Ioannes Albertus</persName>
+                        R. P. mortuus est <placeName key="Toruń"
+                                ref="http://www.wikidata.org/entity/Q47554">
+                                Thorunii</placeName>
+                    <date when="1501-06-18">18 iunii</date>,
+                        sepultus <placeName key="Kraków" ref="http://www.wikidata.org/entity/Q31487">
+                        Cracoviae</placeName>
+                    <date when="1501-07-26">26
+                                iulii 1501</date>«. Data jednak <date when="1501-06-17">17 czerwca</date>
+                        (czwartek) jest z innych źródeł stwierdzona na pewne. Miechowita podaje:
+                        hora XIV, t. j. 10 rano, ponieważ cały zegar zaczynał się w lecie o 8
+                        wieczorem. Posłowie sascy (Nr. 3) podają »zwischen IX und X horen«, co jeśli
+                        jest liczone według pół zegara, używanego już w <placeName key="Prusy"
+                                ref="http://www.wikidata.org/entity/Q918723">
+                                Prusiech</placeName>, który zaczyna się o północy, zgadzałoby się z
+                        Miechowitą.</note>. Qui nunctius, sicut debuit, affecit nos dolore
+                        gravissimo, quem tamen, prout possumus et decet, conamur aequo animo
+                        tollerare et affectus nostros conformare divinae voluntati.</p>
+                    <p>Et quoniam sub huiusmodi casibus Respublica, orbata suo rectore, solet
+                        gravius periclitari, nos huc advocamus vicinos dominos consiliarios,
+                        consulturi cum eisdem. ut provideamus defensioni et tranquillitati harum
+                        terrarum. Et his peractis cum consilio eorundem dominorum, properare
+                        intendimus obviam funeri et sine mora cum eodem <placeName key="Kraków"
+                            ref="http://www.wikidata.org/entity/Q31487">Cracoviam</placeName>
+                        advenire. V. quoque M<hi rend="superscript">ciam</hi> summopere rogamus, ut
+                        hoc tempore, tam turbulento et periculoso, descendat <placeName key="Kraków"
+                            ref="http://www.wikidata.org/entity/Q31487">Cracoviam</placeName> et cum
+                        aliis dominis consiliariis istarum regionum, quibus nos scripsimus, ut
+                        similiter <placeName key="Kraków"
+                            ref="http://www.wikidata.org/entity/Q31487">Cracoviam</placeName> se
+                        conferrent, consulere velitis, quomodo partes <placeName key="Ruś"
+                            ref="http://www.wikidata.org/entity/Q609850">Russiae</placeName> et
+                        confinia istarum partium Regni in debita defensione constituantur, tum
+                        domesticae quoque tumultuationes, si quae essent, sopiantur, et de ceteris,
+                        quae necessaria erunt, communi consilio provideatis. Pecuniae vero, si quae
+                        ad talia procuranda interim, quoad simul conveniamus, necessariae erunt, V.
+                        M<hi rend="superscript">cia</hi> cum ipsis dominis cooperetur, ut alicubi
+                        mutuo inveniri possint, quae deinde ex publico sine</p>
+                    <pb n="2" />
+                    <fw type="header">2 1501. Nr. 1. 2. 3.</fw>
+                    <p>omni dubio cum gratia repellentur. Haec V. M<hi rend="superscript">ciam</hi>
+                        pro eo amore et fide, qua semper fuit erga Rempublicam, scimus et diligenter
+                        et amanter facturam.</p>
+                    <p>Ceterum obversatur nobis in animo, in quo sit moerore constituta reginalis M<hi
+                            rend="superscript">tas</hi>; ideoque V. M<hi rend="superscript">ciam</hi>
+                        summopere rogamus, verbis et auctoritate, qua melius potest et intelligit,
+                        illam consolari assidue velit; tum autem haec, quae facienda pro Republica
+                        erunt, imprimis eiusdem M<hi rend="superscript">tis</hi> consilio cum aliis
+                        dominis regat et disponat. Quae valeat feliciter et nos diligat. Datum...<note
+                            n="page_2-1" place="foot">Jak widać z następnych aktów kardynał bawił w <placeName
+                                key="Gniezno" ref="http://www.wikidata.org/entity/Q51432">Gnieźnie</placeName>,
+                        a pisał albo w dniu śmierci króla, albo nazajutrz. Szybki goniec mógł się
+                        dostać z <placeName key="Toruń" ref="http://www.wikidata.org/entity/Q47554">
+                        Torunia</placeName> do <placeName key="Gniezno"
+                                ref="http://www.wikidata.org/entity/Q51432">Gniezna</placeName> za 8
+                        godzin.</note>
+                    </p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Fryderyk, kardynał, do doradców Królestwa Polskiego.</p>
+                    <p>Wielmożny panie, nasz umiłowany przyjacielu! Przed dwoma dniami napisali do
+                        nas panowie doradcy Królestwa, którzy przebywają w Prusach, o najcięższej
+                        chorobie najjaśniejszego niegdyś pana naszego, jednakże o ostatecznym końcu
+                        jego życia nic nie donieśli, a jedynie wzywali nas, abyśmy tam pośpieszyli.
+                        Napisalibyśmy o tej nowinie już wtedy Waszej Wielmożności, lecz chcieliśmy
+                        zaczekać, aby donieść o czymś pewniejszym. Teraz oto w godzinie nieszporów
+                        dowiedzieliśmy się, że sam pan nasz zakończył swoje dni. Ta nowina, jak to
+                        być powinno, napełniła nas najgłębszym bólem, który jednak, na ile potrafimy
+                        i jak przystoi, staramy się znosić ze spokojnym umysłem i podporządkować
+                        nasze uczucia woli Bożej.</p>
+                    <p>A ponieważ w takich przypadkach Rzeczpospolita, pozbawiona swego rządcy,
+                        zwykła być narażona na poważniejsze niebezpieczeństwa, wzywamy tutaj
+                        okolicznych panów doradców, aby się z nimi naradzić, w celu zapewnienia
+                        obrony i spokoju tych ziem. Po załatwieniu tych spraw, za radą tychże panów,
+                        zamierzamy wyruszyć naprzeciw orszakowi pogrzebowemu i bez zwłoki wraz z nim
+                        przybyć do Krakowa. Waszą Wielmożność również usilnie prosimy, aby w tym
+                        czasie, tak burzliwym i niebezpiecznym, udał się do Krakowa i wraz z innymi
+                        panami doradcami z tamtych stron, do których napisaliśmy, aby podobnie udali
+                        się do Krakowa, zechciał naradzić się, w jaki sposób ziemie ruskie i
+                        pogranicza tamtych części Królestwa mają zostać postawione w należytej
+                        obronie, a także aby ewentualne niepokoje wewnętrzne, jeśli by takie
+                        wystąpiły, zostały zażegnane, oraz abyście wspólną radą zadbali o inne
+                        niezbędne sprawy. Co do pieniędzy, jeśli jakieś będą w międzyczasie
+                        potrzebne na załatwienie tych spraw, zanim się razem spotkamy, niech Wasza
+                        Wielmożność współdziała z tymiż panami, aby można je było gdzieś pożyczyć, a
+                        które następnie ze skarbu publicznego bez wątpienia z wdzięcznością zostaną
+                        zwrócone. Wiemy, że Wasza Wielmożność, z racji miłości i wierności, jaką
+                        zawsze żywił wobec Rzeczypospolitej, uczyni to gorliwie i z oddaniem.</p>
+                    <p>Ponadto mamy na uwadze, w jakim smutku pogrążona jest Jej Królewska Mość;
+                        dlatego usilnie prosimy Waszą Wielmożność, aby słowami i powagą, jak
+                        najlepiej potrafi i rozumie, zechciał ją nieustannie pocieszać; następnie
+                        zaś, aby to, co należy uczynić dla Rzeczypospolitej, kierował i zarządzał
+                        przede wszystkim za radą Jej Królewskiej Mości wraz z innymi panami. Obyś
+                        cieszył się dobrym zdrowiem i darzył nas miłością. Dano...</p>
+                </div>
+            </div>
+            <div n="2" type="document">
+                <head>Nr. 2.</head>
+                <ab type="date-place">B. m. d. r. <supplied reason="reconstruction">( <placeName
+                            key="Gniezno" ref="http://www.wikidata.org/entity/Q51432">Gniezno</placeName>
+                    <date
+                            when="1501-06-19">19
+                            czerwca 1501</date>) </supplied>. </ab>
+                <ab type="summary">
+                    <persName key="Fryderyk Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q262986">Fryderyk</persName> do
+                    dostojników pruskich: wybiera się lada dzień do <placeName key="Prusy"
+                        ref="http://www.wikidata.org/entity/Q918723">Prus</placeName>. </ab>
+                <ab type="source">Dwie kopje z Tomic. 1. P. 127 i 2. R. 115—116. — 3. T. N. 24, 419
+                    ex 2. Reg. Gołębiowski III 452 ex 3.</ab>
+                <div type="original" xml:lang="la">
+                    <p>
+                        <persName key="Fryderyk Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q673151">Fridericus</persName>...
+                        cardinalis <persName key="Łukasz Watzenrode"
+                            ref="http://www.wikidata.org/entity/Q1347063">Lucae</persName> Varmiensi
+                        episcopo, <persName key="Mikołaj Chrapicki"
+                            ref="http://www.wikidata.org/entity/Q11780713">Nicolao</persName>
+                        Culmensi episcopo, <persName key="Mikołaj Bażyński"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q148918">Nicolao de Baisen</persName>
+                        palatino Marienburgensi.</p>
+                    <p>Reverendi in Christo patres, magnificeque domine! Ea erat sententia et
+                        desiderium nostrum, ut quam primum certiores redditi simus de gravissima
+                        aegritudine ac deinde non multo post de acerbo casu et obitu ser<hi
+                            rend="superscript">mi</hi> domini nostri, istuc sine mora veniremus, cum
+                        cohonestandi funeris eiusdem domini nostri, tum etiam vobiscum consultandi
+                        causa de his, quae pertinerent et necessaria essent ad quietem et
+                        securitatem Regni et vestram. Sed, uti scripsimus in aliis nostris litteris,
+                        aliquantisper hic retenti sumus, eo quod expectabamus dominos, quos huc
+                        vocaveramus, consulturos de his, quae praesentia Reipublicae tempora
+                        exposcunt. Et hi ipsi domini, duobus exceptis, cras aut fortasse hodie
+                        venturi sunt. Cum quibus, peractis die crastino funeralibus cerimoniis, post
+                        prandium aut <date when="1501-06-21">feria secunda</date>
+        <note n="page_2-2"
+                            place="foot">T. j. <date when="1501-06-21">21 czerwca
+                                1501</date>. </note> mane, iter istuc arripiemus, ac deinde, cum
+                        adiuvante domino simul erimus, communibus consiliis Reipublicae
+                        necessitatibus providebimus. Valeant feliciter V. D<hi rend="superscript">es</hi>
+                        Datum...</p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Fryderyk... kardynał, do Łukasza, biskupa warmińskiego, Mikołaja, biskupa
+                        chełmińskiego, Mikołaja z Bażyn, wojewody malborskiego.</p>
+                    <p>Wielebni w Chrystusie ojcowie i wielmożny panie! Takim było nasze
+                        postanowienie i pragnienie, abyśmy, gdy tylko zostaliśmy powiadomieni o
+                        najcięższej chorobie, a niedługo potem o bolesnym zdarzeniu i śmierci
+                        najjaśniejszego pana naszego, bez zwłoki tam przybyli, zarówno w celu
+                        oddania honorów pogrzebowi tegoż pana naszego, jak i w celu naradzenia się z
+                        wami w sprawach, które dotyczyłyby i były niezbędne dla spokoju i
+                        bezpieczeństwa Królestwa oraz waszego. Lecz, jak napisaliśmy w innych
+                        naszych listach, zostaliśmy tu na pewien czas zatrzymani, ponieważ
+                        oczekiwaliśmy panów, których tu wezwaliśmy, aby naradzić się nad tym, czego
+                        wymagają obecne czasy Rzeczypospolitej. I ci właśnie panowie, z wyjątkiem
+                        dwóch, mają przybyć jutro lub być może jeszcze dzisiaj. Z nimi, po
+                        odprawieniu w dniu jutrzejszym ceremonii pogrzebowych, po obiedzie lub w
+                        poniedziałek rano, wyruszymy w tamtą stronę, a następnie, gdy z pomocą Pana
+                        będziemy razem, wspólnymi radami zaradzimy potrzebom Rzeczypospolitej. Oby
+                        Wasze Dostojności cieszyły się dobrym zdrowiem. Dano...</p>
+                </div>
+            </div>
+            <div n="3" type="document">
+                <head>Nr. 3.</head>
+                <ab type="date-place">
+                    <placeName key="Toruń" ref="http://www.wikidata.org/entity/Q47554">Toruń</placeName>
+    <date
+                        when="1501-06-20">20 czerwca 1501</date>. </ab>
+                <ab type="summary">Posłowie księcia <persName key="Jerzy Brodaty"
+                        ref="https://www.wikidata.org/wiki/Q719626">Jerzego saskiego</persName> do
+                    wielkiego mistrza: donoszą o śmierci króla <persName key="Jan I Olbracht"
+                        ref="http://www.wikidata.org/entity/Q53451">Olbrachta</persName> i bliskim
+                    przyjeździe kardynała, który ich polecił zatrzymać aż do swego przybycia.</ab>
+                <ab type="source">Oryginał papierowy z 3 dobrze zachowanemi pieczęciami wystawców na
+                    opłatkach. Archiwum państwowe w Królewcu: Ordensbriefarchiv, alte Sign. XXVIII
+                    7.</ab>
+                <div type="original" xml:lang="de">
+                    <p>Unnsere gantzwillige unnd undertenige dinste sein ewren gnaden allezceit
+                        zcuvoran bereit. Hochwirdigister irluchter hochgeborner furste, gnediger
+                        unnd gnedigister herre.</p>
+                    <pb n="3" />
+                    <fw type="header">Nr. 3. 4. 1501. 3</fw>
+                    <p>Wir geben E. F. G. zcu erkennen, dasz der durchlüchste groszmechtigiste
+                        furste unnd herre her <persName key="Jan Olbracht"
+                            ref="http://www.wikidata.org/entity/Q53451">Johannes
+                            Albertus</persName>, weylant konigk in <placeName key="Polska"
+                            ref="http://www.wikidata.org/entity/Q171348">Polen</placeName> etc.,
+                        nach dem willen desz almechtigen Gots seinen abeschiet von dieser werlt <date
+                            when="1501-06-17">am
+                            dornstage desz achten tags unsers heyligen warenn leychnams</date>,
+                        zcwischen IX und X horen, alhir zcu <placeName key="Toruń"
+                            ref="http://www.wikidata.org/entity/Q47554">Thorn</placeName> genomen,
+                        desz sele der almechtige Got gnedig und barmherzcigk sey; unnd alsz wir
+                        vornemen, so sal seine leyche kegin <placeName key="Kraków"
+                            ref="http://www.wikidata.org/entity/Q31487">Krokow</placeName> in kortz
+                        gefürt werden etc.</p>
+                    <p>Wir haben tegelich unser abfertünge oüch nach des koniges tode gewartet unnd
+                        vertrostunge gehabt die zcu erlangen, alsz ist hewte ein brieff von unserm
+                        g. unnd gsten hern dem cardinal an unsere herren unnd frunde und gnedige
+                        hern die bischove unnd andere rethe itzunt zcu <placeName key="Toruń"
+                            ref="http://www.wikidata.org/entity/Q47554">Thorn</placeName> versamelt
+                        komenn, der under andern meldet, dasz unser g. und gter her der cardinal
+                        sich uff morgen montagk zcu <placeName key="Gniezno"
+                            ref="http://www.wikidata.org/entity/Q51432">Gnysen</placeName> zcu
+                        erheben willens sey unnd uffs forderlichste alher kein <placeName
+                            key="Toruń" ref="http://www.wikidata.org/entity/Q47554">Thorn</placeName>
+                        zcu komen, unnd versehenn unsz, dasz seine gnade uff mithwoche nhest alhir
+                        sein wirt. Dyweil dan derselbe seiner gnadenn brieff mit claren wortten
+                        anzceiget, dasz sie unsz bysz uff seiner gnaden zcukunfft sollen alhir
+                        erhalden, so werden wir mit unser anthwort daruff verzcogen, und hoffen,
+                        dasz unsz dieselbe uff nhest kunfftigen dornstagk gegeben werde. Unnd so
+                        balde wir abgefertiget, wollen wir E. G. zcuerkennen geben, uff waszc zceit
+                        wir hoffen zcu E. G. zcu komen. Wir versehen unsz ouch einesz merglichen
+                        rathes, nachdeme gereit vier bischove mit trefflichen rethen alhir zcu <placeName
+                            key="Toruń" ref="http://www.wikidata.org/entity/Q47554">Thorn</placeName>
+                        sein, deszgleichen wirt unser g. und gster herre der cardinal ouch etzliche
+                        bischove unnd mergliche leute mit sich brengen. Ewrn gnaden alsz unserm g.
+                        und gsten hern gantzwillige unnd undertenige dinste zcu erzceigen sein wir
+                        unsers vermogens stets vleysz willigk unnd gevlyssenn. Geben zcu <placeName
+                            key="Toruń" ref="http://www.wikidata.org/entity/Q47554">Thorun</placeName>
+                        ,        <date when="1501-06-20">sontags nach octavas Corporis Christi anno
+                        etc. im XV<hi rend="superscript">c</hi> unnd irsten jarenn</date>. </p>
+                    <p>
+                        <persName key="Jan z Saalhausen">Johannes</persName> von Gots gnaden
+                        Bischoff zcu <placeName key="Miśnia"
+                            ref="http://www.wikidata.org/entity/Q8738">Meyssenn</placeName>. <br />
+        <persName
+                            key="Henryk Młodszy ze Stolbergu">
+                            Heinrich</persName> der junger grave und herre zcu <placeName
+                            key="Stolberg" ref="http://www.wikidata.org/entity/Q686386">Stolbergk</placeName>
+                        .        <br />
+        <persName key="Ulryk von Wolfferstorff">Ulricus
+                            von Wolfferstorff</persName> doctor, Techant zcu <placeName key="Miśnia"
+                            ref="http://www.wikidata.org/entity/Q8738">Meyssen</placeName>. </p>
+                    <p>Dem hochwirdigisten unnd irluchtem hochgebornen fursten unnd herren hern <persName
+                            key="Fryderyk Wettyn" ref="http://www.wikidata.org/entity/Q262986">
+                        Friderich</persName>, dewtzsch ordens yn <placeName key="Prusy"
+                            ref="http://www.wikidata.org/entity/Q918723">
+                            Prewssen</placeName> hohmeyster, herzcogk zcu <placeName key="Saksonia"
+                            ref="http://www.wikidata.org/entity/Q1202">Sachsen</placeName>,
+                        lantgraven in <placeName key="Turyngia"
+                            ref="http://www.wikidata.org/entity/Q1205">Doringen</placeName>,
+                        marggrave zcu <placeName key="Miśnia"
+                            ref="http://www.wikidata.org/entity/Q8738">Meyssen</placeName>, unserm
+                        gnedigen unnd gnedegistenn hernn.</p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Nasze w pełni chętne i poddane usługi są zawsze uprzednio gotowe dla Waszej
+                        Miłości. Najprzewielebniejszy, najjaśniejszy, wielmożny książę, łaskawy i
+                        najłaskawszy panie.</p>
+                    <p>Dajemy Waszej Książęcej Miłości do poznania, że najjaśniejszy i potężny
+                        książę i pan, pan Jan Olbracht, niegdyś król w Polsce itd., zgodnie z wolą
+                        wszechmogącego Boga, odszedł z tego świata w czwartek w oktawę Bożego Ciała,
+                        między godziną dziewiątą a dziesiątą, tutaj w Toruniu; niech wszechmogący
+                        Bóg będzie miłościwy i miłosierny dla jego duszy. A jak się dowiadujemy,
+                        jego ciało ma zostać wkrótce przewiezione do Krakowa itd.</p>
+                    <p>Codziennie oczekiwaliśmy na naszą odprawę, także po śmierci króla, i mieliśmy
+                        nadzieję ją otrzymać, gdy oto dzisiaj nadszedł list od naszego łaskawego i
+                        najłaskawszego pana kardynała do naszych panów i przyjaciół oraz łaskawych
+                        panów biskupów i innych doradców zgromadzonych obecnie w Toruniu, który
+                        między innymi donosi, że nasz łaskawy i najłaskawszy pan kardynał zamierza
+                        wyruszyć jutro, w poniedziałek, do Gniezna, a następnie jak najszybciej
+                        przybyć tutaj do Torunia, i spodziewamy się, że jego miłość będzie tu w
+                        najbliższą środę. Ponieważ zaś tenże list jego miłości jasnymi słowami
+                        wskazuje, że mają nas tutaj zatrzymać aż do przybycia jego miłości, nasza
+                        odpowiedź zostanie opóźniona i mamy nadzieję, że zostanie nam udzielona w
+                        najbliższy czwartek. A jak tylko zostaniemy odprawieni, damy Waszej Miłości
+                        znać, w jakim czasie spodziewamy się przybyć do Waszej Miłości. Spodziewamy
+                        się również znaczącej narady, jako że już czterech biskupów ze znakomitymi
+                        doradcami jest tutaj w Toruniu, a podobnie nasz łaskawy i najłaskawszy pan
+                        kardynał przywiezie ze sobą kilku biskupów i znacznych ludzi. Jesteśmy
+                        zawsze chętni i gotowi w miarę naszych możliwości świadczyć Waszej Miłości,
+                        jako naszemu łaskawemu i najłaskawszemu panu, w pełni chętne i poddane
+                        usługi. Dano w Toruniu, w niedzielę po oktawie Bożego Ciała, w roku 1501.</p>
+                    <p>Jan, z Bożej łaski biskup Miśni.<br /> Henryk Młodszy, hrabia i pan na
+                        Stolbergu.<br /> Ulryk von Wolfferstorff, doktor, dziekan w Miśni.</p>
+                    <p>Do najprzewielebniejszego i najjaśniejszego, wielmożnego księcia i pana, pana
+                        Fryderyka, wielkiego mistrza zakonu niemieckiego w Prusach, księcia
+                        saskiego, landgrafa w Turyngii, margrabiego w Miśni, naszego łaskawego i
+                        najłaskawszego pana.</p>
+                </div>
+            </div>
+            <div n="4" type="document">
+                <head>Nr. 4.</head>
+                <ab type="date-place">
+                    <placeName key="Wilno" ref="http://www.wikidata.org/entity/Q216">Wilno</placeName>
+<date
+                        when="1501-06-25">25 czerwca 1501</date>. </ab>
+                <ab type="summary">
+                    <persName key="Aleksander Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q53450">Aleksander</persName> prosi <persName
+                        key="Fryderyk Jagiellończyk" ref="http://www.wikidata.org/entity/Q673151">
+                    Fryderyka</persName> o poparcie przy elekcji ze względu na unję.</ab>
+                <ab type="source">Dwie kopje z Tomic. 1. P. 129—130 i 2. R. 117—118. — 3. T. N. 24,
+                    405—6 ex 1. Reg. Gołębiowski III. 452 ex 3.</ab>
+                <div type="original" xml:lang="la">
+                    <p>
+                        <persName key="Aleksander Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q53450">Alexander</persName> M. D.
+                        L. <persName key="Fryderyk Jagiellończyk"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q152903">Friderico</persName>
+                        cardinali.</p>
+                    <p>Illustrissime princeps et r<hi rend="superscript">me</hi> in Christo pater et
+                        domine germane noster charissime! Accepimus, quomodo ser<hi
+                            rend="superscript">mus</hi>
+    <persName key="Jan Olbracht"
+                            ref="http://www.wikidata.org/entity/Q53451">Joannes Albertus</persName>,
+                        rex <placeName key="Polska" ref="http://www.wikidata.org/entity/Q171348">
+                        Poloniae</placeName> germanus noster charissimus, diem clausit extremum.
+                        Cuius ser<hi rend="superscript">tis</hi> mors nobis dolori est maximo,
+                        tamen, cum sic Deo placuit, voluntas sua facta est, cui parendum est. Iam
+                        deinceps de statu Regni et regis electione consulendum restat. Sed cum Ill<hi
+                            rend="superscript">tas</hi> V. Fraterna et domus genere et consilii
+                        autoritate prior ad huiusmodi electionem existat, dignetur I. V. Fraterna
+                        pro reparatione</p>
+                    <pb n="4" />
+                    <fw type="header">4 1501. Nr. 4. 5.</fw>
+                    <p>reipublicae Regni imprimis et studiosius consulere, quae non alio modo
+                        reparari poterit, nisi quod Regnum et Ducatus uniantur, prout sub
+                        praedecessoribus nostris divae memoriae unum dominium fuerunt, qua unitate,
+                        fortuna, divitiis, victoria potiebantur et augebantur, post quorum
+                        seiunctionem et Regni et Ducatus debilis et difficilis status venit. Unde
+                        primores et consiliarii Regni et Ducatus in priorem unionem consuluerunt,
+                        fecerunt et inscriptionibus ex alterutroque et misterio iuramentorum
+                        confirmaverunt et roboraverunt. Sic deficiente magno duce <placeName
+                            key="Litwa" ref="http://www.wikidata.org/entity/Q37">Lithwaniae</placeName>,
+                        rex <placeName key="Polska" ref="http://www.wikidata.org/entity/Q171348">
+                        Poloniae</placeName> in ducatum <placeName key="Litwa"
+                            ref="http://www.wikidata.org/entity/Q37">Lithwaniae</placeName>
+                        succedere deberet, et e contra. Unde cum s<hi rend="superscript">mus</hi>
+                        dnus rex frater noster charissimus mortem obiit, dignetur I. V. Fraterna ad
+                        id cooperari, ut inscriptionibus mutuis et iuramentis praestitis ad
+                        observandum imprimis satisfieret, et nobis favere honorem Regni, et exinde
+                        Ducatum Regno incorporare, per quam incorporationem utriusque respublica
+                        felicius stabit, maxime sub hac tempestate bellorum. Non posset enim fortior
+                        occasio bellorum dari, nisi unius ab altero dominio seiunctio. Non dubitamus
+                        tamen, quod et reipublicae Regni et honori nostro I. V. gratiose favebit.
+                        Cui se nos ad omnem benivolentiam compromittimus. Tandem feliciter valere
+                        cupimus I. V. Fr. Datum <placeName key="Wilno"
+                            ref="http://www.wikidata.org/entity/Q216">
+                            Vilnae</placeName>, <date when="1501-06-25">feria sexta post festum S.
+                        Joannis Baptistae anno D.
+                            millesimo quingentesimo primo</date>
+    <note n="page_4-1" place="foot">Równocześnie
+                        ( <date when="1501-06-26">26 czer. 1501</date>) był posłany także i do w.
+                        mistrza ajent <persName key="Aleksander Jagiellończyk"
+                                ref="http://www.wikidata.org/entity/Q53450">Aleksandra</persName>;
+                        ob. Nr. 36.</note>. </p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Aleksander, Wielki Książę Litewski, do kardynała Fryderyka.</p>
+                    <p>Najjaśniejszy książę i najprzewielebniejszy w Chrystusie ojcze oraz panie,
+                        nasz najdroższy rodzony bracie! Otrzymaliśmy wieść, że najjaśniejszy Jan
+                        Olbracht, król Polski, nasz najdroższy brat, zakończył swoje dni. Śmierć
+                        jego królewskiej mości jest dla nas największym bólem, jednakże, skoro tak
+                        spodobało się Bogu, stała się Jego wola, której należy się podporządkować.
+                        Teraz z kolei pozostaje naradzić się nad stanem Królestwa i wyborem króla.
+                        Lecz ponieważ Wasza Braterska Miłość, zarówno z racji rodu naszego domu, jak
+                        i powagi rady, zajmuje pierwsze miejsce przy tego rodzaju elekcji, niech
+                        Wasza Braterska Miłość raczy przede wszystkim i z największą starannością
+                        zadbać o naprawę Rzeczypospolitej Królestwa, która nie w inny sposób będzie
+                        mogła zostać naprawiona, jak tylko przez to, że Królestwo i Księstwo zostaną
+                        połączone, tak jak za naszych poprzedników świętej pamięci stanowiły jedno
+                        państwo, dzięki której to jedności cieszyły się pomyślnością, bogactwem,
+                        zwycięstwami i rosły w siłę, a po ich rozłączeniu nadszedł słaby i trudny
+                        stan zarówno Królestwa, jak i Księstwa. Stąd też dostojnicy i doradcy
+                        Królestwa oraz Księstwa postanowili o powrocie do dawnej unii, dokonali tego
+                        i potwierdzili oraz umocnili obustronnymi zapisami i tajemnicą przysiąg. Tak
+                        więc, w przypadku braku wielkiego księcia Litwy, król Polski powinien objąć
+                        następstwo w księstwie Litwy, i odwrotnie. Skoro zatem najjaśniejszy pan
+                        król, nasz najdroższy brat, poniósł śmierć, niech Wasza Braterska Miłość
+                        raczy współdziałać w tym, aby przede wszystkim zadośćuczyniono wzajemnym
+                        zapisom i złożonym przysięgom, które należy zachować, i aby poparto nas w
+                        dążeniu do zaszczytu Królestwa, a następnie wcielono Księstwo do Królestwa,
+                        przez które to wcielenie Rzeczpospolita obu państw będzie trwać
+                        szczęśliwiej, zwłaszcza w obliczu tej burzy wojennej. Nie mogłoby bowiem być
+                        silniejszej okazji do wojen, niż oddzielenie jednego państwa od drugiego.
+                        Nie wątpimy jednak, że Wasza Miłość łaskawie poprze zarówno Rzeczpospolitej
+                        Królestwa, jak i nasz zaszczyt. Zobowiązujemy się wobec niej do wszelkiej
+                        życzliwości. Na koniec życzymy Waszej Braterskiej Miłości pomyślnego
+                        zdrowia. Dano w Wilnie, w piątek po święcie św. Jana Chrzciciela, w roku
+                        Pańskim tysiąc pięćset pierwszym.</p>
+                </div>
+            </div>
+            <div n="5" type="document">
+                <head>Nr. 5.</head>
+                <ab type="date-place">
+                    <placeName key="Wilno" ref="http://www.wikidata.org/entity/Q216">Wilno</placeName>
+<date
+                        when="1501-06-28">28 czerwca 1501</date>. </ab>
+                <ab type="summary">
+                    <persName key="Aleksander Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q53450">Aleksander</persName> w sprawie
+                    elekcji swojej posyła do <persName key="Fryderyk Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q673151">Fryderyka</persName>
+<persName
+                        key="Piotr Dunin" ref="http://www.wikidata.org/entity/Q108751764">Piotra
+                    Dunina</persName>. </ab>
+                <ab type="source">Dwie kopje z Tomic. 1. P. 130 i 2. R. 118—119. — 3. T. N. 24, 407
+                    ex 1. Reg. Gołębiowski III 452 ex 3 (pod 29/6).</ab>
+                <div type="original" xml:lang="la">
+                    <p>
+                        <persName key="Aleksander Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q53450">Alexander</persName> M. D.
+                        L. <persName key="Fryderyk Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q673151">Friderico</persName>
+                        cardinali.</p>
+                    <p>Illustrissime princeps et rev<hi rend="superscript">me</hi> in Christo pater,
+                        germane noster charissime et honorande. Et quamvis primas ad I. V. misimus
+                        litteras affectando, ut nobis Regnum favere dignaretur et praesentibus
+                        magnopere rogamus, ut eam gratiam fraternam ostendere dignaretur, ut ad
+                        huiusmodi diadematis regalis honorem consilio, auxilio et gratia
+                        conscenderemus, causam honoris nostri se exhibendo, prout nos pontificatus
+                        Ill<hi rend="superscript">tis</hi> V. causa et incitamentum fuimus et nos ad
+                        omnem benivolentiam se Ill<hi rend="superscript">mae</hi> P<hi
+                            rend="superscript">ti</hi> V. offerimus et compromittimus, istud
+                        animadvertere dignando, quod quando ista dominia Regnum et Ducatus insimul
+                        fuerunt, quod utriusque respublica melius stetit, maxime ea vi bellorum
+                        insurgente, quam utile foret ea e contra nectere, postquam occasio datur, in
+                        eo et reipublicae Regni et honori nostro favendo. Ceterum commisimus certa
+                        mentis et intentionis nostrae generoso <persName key="Piotr Dunin"
+                            ref="http://www.wikidata.org/entity/Q108751764">Petro Dunin</persName>
+    <note
+                            n="page_4-2" place="foot">
+                            <persName key="Piotr Dunin"
+                                ref="http://www.wikidata.org/entity/Q108751764">Petrus Dunin</persName>,
+                        curiensis, znajduje się przy boku <persName key="Aleksander Jagiellończyk"
+                                ref="http://www.wikidata.org/entity/Q53450">Aleksandra</persName>
+                        też <date notAfter="1505" notBefore="1502">1502—1505</date> i otrzymuje
+                        różne asygnaty (Teki Pawińskiego I).</note> curiensi nostro, cui in omnibus
+                        nomine nostro dicendis et referendis dignetur I. V. Fr. fidem concedere, non
+                        secus quam cum propria in persona huiusmodi conferremus. Tandem se gratiae
+                        I. V. Fr. recommittimus, rogando ut ex eadem nos emittere non dignaretur et
+                        sublimationis nostrae causa fieri, dum se oportunitas praestat. Valere
+                        feliciter cupimus I. V. Fr. Datum <placeName key="Wilno"
+                            ref="http://www.wikidata.org/entity/Q216">Vilnae</placeName>, <date
+                            when="1501-06-28">feria
+                            secunda in vigilia b. Petri et Pauli ap. a. D. millesimo quingentesimo
+                        primo</date>. </p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Aleksander, Wielki Książę Litewski, do kardynała Fryderyka.</p>
+                    <p>Najjaśniejszy książę i najprzewielebniejszy w Chrystusie ojcze, nasz
+                        najdroższy i czcigodny rodzony bracie. I chociaż wysłaliśmy już pierwsze
+                        listy do Waszej Miłości, pragnąc, aby Królestwo raczyło nam sprzyjać, także
+                        i w niniejszym liście usilnie prosimy, abyś raczył okazać tę braterską
+                        łaskę, byśmy dzięki twojej radzie, pomocy i poparciu mogli dostąpić
+                        zaszczytu królewskiego diademu, stając się rzecznikiem naszej sprawy, tak
+                        jak my byliśmy przyczyną i zachętą do uzyskania godności kardynalskiej przez
+                        Waszą Miłość, i ofiarujemy oraz zobowiązujemy się do wszelkiej życzliwości
+                        wobec Waszej Najjaśniejszej Ojcowej Miłości, racząc zwrócić uwagę na to, że
+                        kiedy te państwa, Królestwo i Księstwo, były razem, Rzeczpospolita obu miała
+                        się lepiej, a zwłaszcza w obliczu narastającej siły wojen, jakże pożyteczne
+                        byłoby je z powrotem połączyć, skoro nadarza się okazja, sprzyjając w tym
+                        zarówno Rzeczypospolitej Królestwa, jak i naszemu zaszczytowi. Poza tym
+                        powierzyliśmy pewne sprawy naszej myśli i intencji urodzonemu Piotrowi
+                        Duninowi, naszemu dworzaninowi, któremu we wszystkim, co ma do powiedzenia i
+                        przekazania w naszym imieniu, niech Wasza Braterska Miłość raczy dać wiarę,
+                        nie inaczej, jak gdybyśmy osobiście o tym rozmawiali. Na koniec polecamy się
+                        łasce Waszej Braterskiej Miłości, prosząc, abyś nie raczył nas z niej
+                        wypuszczać i stał się przyczyną naszego wywyższenia, dopóki nadarza się
+                        sposobność. Życzymy Waszej Braterskiej Miłości pomyślnego zdrowia. Dano w
+                        Wilnie, w poniedziałek w wigilię świętych apostołów Piotra i Pawła, w roku
+                        Pańskim tysiąc pięćset pierwszym.</p>
+                </div>
+            </div>
+            <pb n="5" />
+            <fw type="header">Nr. 6. 1501. 5</fw>
+            <div n="6" type="document">
+                <head>Nr. 6.</head>
+                <ab type="date-place">
+                    <placeName key="Buda" ref="http://www.wikidata.org/entity/Q193478">Buda</placeName>
+<date
+                        when="1501-07-02">2 lipca 1501</date>. </ab>
+                <ab type="summary">
+                    <persName key="Władysław II Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q155599">Władysław</persName> do <persName
+                        key="Fryderyk Jagiellończyk" ref="http://www.wikidata.org/entity/Q77233">
+                    Fryderyka</persName>: wyraża żal z powodu śmierci króla i poleca kandydaturę <persName
+                        key="Zygmunt I Stary" ref="https://www.wikidata.org/wiki/Q54056">Zygmunta</persName>
+                    .
+</ab>
+                <ab type="source">Dwie kopje z Tomic. 1. P. 138—9 i 2. R. 122—4. — 3. T. N. 24,
+                    409—412. Reg. Gołębiowski III 452 ex 3.</ab>
+                <div type="original" xml:lang="la">
+                    <p>
+                        <persName key="Władysław II Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q155599">Vladislaus</persName> U. B.
+                        R. <persName key="Fryderyk Jagiellończyk"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q152903">
+                            Friderico</persName> cardinali.</p>
+                    <p>Ill<hi rend="superscript">me</hi> ac r<hi rend="superscript">me</hi> domine,
+                        germane noster charissime! Acerbissima nova nobis hac die allata sunt, quae
+                        retulerunt ser<hi rend="superscript">mum</hi> principem dnum <persName
+                            key="Jan I Olbracht" ref="http://www.wikidata.org/entity/Q53451">Johannem
+                        Albertum</persName>
+    <placeName key="Polska"
+                            ref="http://www.wikidata.org/entity/Q171348">Poloniae</placeName> regem,
+                        fratrem utriusque nostrum charissimum, his diebus in <placeName key="Prusy"
+                            ref="http://www.wikidata.org/entity/Q918723">Prussia</placeName> vitam
+                        cum morte commutasse; cuius quidem obitum nos cum ill<hi rend="superscript">
+                        mo</hi> principe dno <persName key="Zygmunt I Stary"
+                            ref="http://www.wikidata.org/entity/Q54056">
+                            Sigismundo</persName> duce, dilectissimo fratre nostro, certe
+                        moestissimo corde audivimus, continueque deplorare non desistimus. Verum cum
+                        hoc fatum nemo evitare possit, ad hocque nati et generati simus, ut
+                        aliquando moriamur et corrumpamur, voluntati divinae parendum censuimus et
+                        hunc casum suae divinae maiestati commendavimus. Sed quoniam certum habemus,
+                        quod s<hi rend="superscript">ma</hi> domina genitrix nostra charissima
+                        nimium se ob Fraternae illius M<hi rend="superscript">tis</hi> mortem
+                        extenuabit, rogamus itaque D. V. Ill<hi rend="superscript">mam</hi> ac R<hi
+                            rend="superscript">mam</hi>, velit eam nomine nostro consolari et
+                        firmare, ut tanto suo dolori penitus non succumbat, ne vel ipsam, quam Deus
+                        in singularem nostram consolationem conservat, in tanto suo moerore deficere
+                        contingat.</p>
+                    <p>Restat charissime frater, ut posteaquam Deo sic placitum est, quod praefatus
+                        ser<hi rend="superscript">mus</hi> frater noster ex hac vita emigraverit, ut
+                        de statu illius regni <placeName key="Polska"
+                            ref="http://www.wikidata.org/entity/Q171348">Poloniae</placeName> et
+                        partium sibi subiectarum maturius provideatur. Hoc autem nulla re commodius,
+                        facilius et profectuosius fieri iudicio nostro poterit, quam si ipse ill<hi
+                            rend="superscript">mus</hi> princeps <persName key="Zygmunt I Stary"
+                            ref="http://www.wikidata.org/entity/Q54056">Sigismundus</persName> dux
+                        in regem eligeretur. Rogamus itaque D. V. Ill<hi rend="superscript">mam</hi>
+                        et R<hi rend="superscript">mam</hi>, quo meliori modo res illius Regni
+                        perpetuo dirigantur et status illius Regni in bona pace et quiete sine
+                        aliquo ulteriori motu et turbatione maneat, agat et provideat omni conatu,
+                        ut praedictus ill<hi rend="superscript">mus</hi> d. <persName
+                            key="Zygmunt I Stary" ref="http://www.wikidata.org/entity/Q54056">
+                        Sigismundus</persName>, frater noster, in regem illius Regni eligatur. Cuius
+                        rei quamvis plures existant causae et rationes, illi Regno et omnibus nobis
+                        valde utiles et honorificae, quas pro nunc ob prolixitatem perscribere
+                        supersedemus, tamen hanc viam precipuam eidem D. V. Ill<hi
+                            rend="superscript">mae</hi> et R<hi rend="superscript">mae</hi>
+                        significandam duximus, quod quia idem ill<hi rend="superscript">mus</hi> d. <persName
+                            key="Zygmunt I Stary" ref="http://www.wikidata.org/entity/Q54056">
+                        Sigismundus</persName> dux, frater noster, per haec tempora quo hic apud nos
+                        egit, incredibilem sibi favorem et amorem tam hic in <placeName key="Węgry"
+                            ref="http://www.wikidata.org/entity/Q28">Hungaria</placeName> quam in <placeName
+                            key="Czechy" ref="http://www.wikidata.org/entity/Q39193">Bohemia</placeName>
+                        comparavit et reconciliavit, mirumque in modum ab omnibus ob singulares suas
+                        virtutes diligitur. Si igitur ipse in regem eligetur, procul dubio omnia
+                        ista regna in omnibus illius Regni et omnium vestrorum necessitatibus
+                        libentissime semper subvenirent et ubique res suas promoverent, nec secus hi
+                        domini, presertim <placeName key="Węgry"
+                            ref="http://www.wikidata.org/entity/Q28">
+                            Hungari</placeName> tenerent, ac si aliquis ex hoc regno in regem illius
+                        Regni fuisset electus, perpetuoque illi Regno afficerentur, et quodam modo
+                        viderentur ista regna omnia esse unita, quod cederet in maximum illius Regni
+                        emolumentum et utilitatem; quod tamen minime sequeretur, si ill<hi
+                            rend="superscript">mus</hi> d. <persName key="Aleksander Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q53450">Alexander</persName> m. dux <placeName
+                            key="Litwa" ref="http://www.wikidata.org/entity/Q37">Lithuaniae</placeName>,
+                        frater noster, eligeretur, qui ipsis omnino est incognitus. Quapropter
+                        eandem D. V. I. tanquam fratrem nostrum charissimum rogamus, velit pro
+                        communi utilitate illius Regni apud dominos illos regnicolas, quibus
+                        similiter scripsimus, efficere et laborare, ut ipse d. <persName
+                            key="Zygmunt I Stary" ref="http://www.wikidata.org/entity/Q54056">
+                        Sigismundus</persName> dux in regem illius Regni eligatur. Nos enim,
+                        testamur Deum, etiam alterius</p>
+                    <pb n="6" />
+                    <fw type="header">6 1501. Nr. 6. 7.</fw>
+                    <p>fratris accessionem et honoris augmentum semper cupimus, sed propter Regni
+                        illius utilitatem, ut praemissum est, longe utilius nobis videtur, ut ipse <persName
+                            key="Zygmunt I Stary" ref="http://www.wikidata.org/entity/Q54056">
+                        Sigismundus</persName> potius quam alius eligatur. Dignetur igitur D. V. R<hi
+                            rend="superscript">ma</hi> atque I<hi rend="superscript">ma</hi> in ea
+                        ipsa re omnem facere diligentiam, et qualitercunque animos illorum ad id
+                        dispositos persenserit, quidve etiam in ea re cum materna M<hi
+                            rend="superscript">te</hi> faciendum censuerit, nobis festinantissime
+                        dies et noctes significare velit. Quam Deus Optimus Maximus diu felicem et
+                        incolumem conservare dignetur. Datum <placeName key="Buda"
+                            ref="http://www.wikidata.org/entity/Q193478">Budae</placeName>, <date
+                            when="1501-07-02">secunda<note n="page_6-a" place="foot">Zapewne: sexta
+                        die — bo Visitatio M. V. wypada <date when="1501">1501</date> w piątek.</note>
+                        die festi Visitationis Beatissimae et Gloriosissimae Mariae Virginis anno
+                        Domini millesimo quingentesimo primo</date>, regnorum nostrorum <placeName
+                            key="Węgry" ref="http://www.wikidata.org/entity/Q28">Hungariae</placeName>
+                        etc.... anno XI, <placeName key="Czechy"
+                            ref="http://www.wikidata.org/entity/Q39193">
+                            Bohemiae</placeName> vero XXXI.</p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Władysław, król Węgier i Czech, do kardynała Fryderyka.</p>
+                    <p>Najjaśniejszy i najprzewielebniejszy panie, nasz najdroższy rodzony bracie!
+                        Najboleśniejsze wieści przyniesiono nam tego dnia, donosząc, że
+                        najjaśniejszy książę pan Jan Olbracht, król Polski, nasz obopólnie
+                        najdroższy brat, w tych dniach w Prusach zamienił życie na śmierć; o jego
+                        odejściu usłyszeliśmy wraz z najjaśniejszym księciem panem Zygmuntem, naszym
+                        najukochańszym bratem, z zaiste najsmutniejszym sercem i nie przestajemy go
+                        nieustannie opłakiwać. Lecz ponieważ nikt nie może uniknąć tego losu, a po
+                        to zostaliśmy zrodzeni i stworzeni, abyśmy kiedyś umarli i obrócili się w
+                        proch, uznaliśmy, że należy podporządkować się woli Bożej i ten przypadek
+                        poleciliśmy Jego Boskiemu Majestatowi. Ale ponieważ jesteśmy pewni, że
+                        najjaśniejsza pani, nasza najdroższa matka, zbytnio się wyniszczy z powodu
+                        śmierci Jego Królewskiej Mości, naszego brata, prosimy zatem Waszą
+                        Najjaśniejszą i Najprzewielebniejszą Dostojność, aby zechciał ją w naszym
+                        imieniu pocieszać i umacniać, by nie uległa całkowicie tak wielkiemu bólowi,
+                        aby i ona, którą Bóg zachowuje ku naszej szczególnej pociesze, nie odeszła w
+                        tak wielkim smutku.</p>
+                    <p>Pozostaje, najdroższy bracie, skoro tak spodobało się Bogu, że wspomniany
+                        najjaśniejszy nasz brat odszedł z tego życia, aby dojrzalej zadbać o stan
+                        owego Królestwa Polskiego i ziem mu podległych. A to, naszym zdaniem, nie
+                        może się dokonać w żaden sposób dogodniej, łatwiej i z większym pożytkiem,
+                        jak tylko wtedy, gdyby sam najjaśniejszy książę Zygmunt został wybrany na
+                        króla. Prosimy zatem Waszą Najjaśniejszą i Najprzewielebniejszą Dostojność,
+                        aby w celu jak najlepszego i trwałego pokierowania sprawami owego Królestwa
+                        oraz utrzymania jego stanu w dobrym pokoju i spokoju, bez żadnych dalszych
+                        niepokojów i zamieszek, działał i wszelkimi siłami zabiegał o to, by
+                        wspomniany najjaśniejszy pan Zygmunt, nasz brat, został wybrany na króla
+                        owego Królestwa. Chociaż istnieje wiele przyczyn i powodów tego, bardzo
+                        pożytecznych i zaszczytnych dla owego Królestwa i dla nas wszystkich,
+                        których opisywanie na razie pomijamy ze względu na ich obszerność, to jednak
+                        uznaliśmy za stosowne wskazać Waszej Najjaśniejszej i Najprzewielebniejszej
+                        Dostojności tę główną drogę, ponieważ tenże najjaśniejszy książę pan
+                        Zygmunt, nasz brat, w czasie gdy przebywał tu u nas, zjednał sobie i zyskał
+                        niewiarygodną przychylność i miłość zarówno tu na Węgrzech, jak i w
+                        Czechach, i w niezwykły sposób jest przez wszystkich miłowany ze względu na
+                        swoje wyjątkowe cnoty. Jeśli więc on sam zostanie wybrany na króla, bez
+                        wątpienia wszystkie te królestwa zawsze najchętniej przychodziłyby z pomocą
+                        we wszystkich potrzebach owego Królestwa i was wszystkich, i wszędzie
+                        popierałyby jego sprawy, a tutejsi panowie, zwłaszcza Węgrzy, nie
+                        traktowaliby tego inaczej, jak gdyby ktoś z tego królestwa został wybrany na
+                        króla owego Królestwa, i na zawsze byliby do owego Królestwa przywiązani, i
+                        w pewien sposób wydawałoby się, że wszystkie te królestwa są zjednoczone, co
+                        przyniosłoby owemu Królestwu największą korzyść i pożytek; co jednak w
+                        żadnym razie nie nastąpiłoby, gdyby wybrany został najjaśniejszy pan
+                        Aleksander, wielki książę Litwy, nasz brat, który jest im całkowicie
+                        nieznany. Dlatego prosimy Waszą Najjaśniejszą Dostojność, jako naszego
+                        najdroższego brata, aby dla wspólnego pożytku owego Królestwa zechciał
+                        działać i pracować wśród tamtejszych panów obywateli, do których podobnie
+                        napisaliśmy, aby to właśnie książę pan Zygmunt został wybrany na króla owego
+                        Królestwa. My bowiem, bierzemy Boga na świadka, zawsze pragniemy wyniesienia
+                        i wzrostu zaszczytów także drugiego brata, ale ze względu na pożytek owego
+                        Królestwa, jak powiedziano wyżej, wydaje nam się o wiele korzystniejsze, aby
+                        to sam Zygmunt, a nie kto inny, został wybrany. Niech więc Wasza
+                        Najprzewielebniejsza i Najjaśniejsza Dostojność raczy dołożyć w tej sprawie
+                        wszelkich starań, i jakkolwiek dostrzeże ich umysły do tego usposobione, lub
+                        co uzna za stosowne uczynić w tej sprawie wraz z Jej Królewską Mością matką,
+                        niech zechce nam jak najśpieszniej, dniem i nocą, dać znać. Niech Bóg
+                        Najlepszy i Największy raczy zachować Cię długo w szczęściu i zdrowiu. Dano
+                        w Budzie, drugiego dnia święta Nawiedzenia Najświętszej i Najchwalebniejszej
+                        Maryi Panny, w roku Pańskim tysiąc pięćset pierwszym, naszych rządów na
+                        Węgrzech itd. roku jedenastym, w Czechach zaś trzydziestym pierwszym.</p>
+                </div>
+            </div>
+            <div n="7" type="document">
+                <head>Nr. 7.</head>
+                <ab type="date-place">B. m. d. r. <supplied reason="reconstruction">(W <placeName
+                            key="Prusy" ref="http://www.wikidata.org/entity/Q918723">Prusiech</placeName>
+<date
+                            notAfter="1501-07-10" notBefore="1501-07-01">na
+                            pocz. lipca 1501</date>) </supplied>. </ab>
+                <ab type="summary">
+                    <persName key="Fryderyk Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q673151">Fryderyk</persName> do <persName
+                        key="Aleksander Jagiellończyk" ref="http://www.wikidata.org/entity/Q53450">
+                    Aleksandra</persName>: przeprasza go za spóźnione doniesienie o śmierci króla i
+                    zapewnia ogólnikowo o swojej przychylności.</ab>
+                <ab type="source">Dwie kopje z Tomic. 1. P. 131 i 2. R. 119—120. — 3. T. N. 24,
+                    403—4 ex R. Reg. Gołębiowski III 452 ex 3.</ab>
+                <div type="original" xml:lang="la">
+                    <p>
+                        <persName key="Fryderyk Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q673151">Fridericus</persName>
+                        cardinalis <persName key="Aleksander Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q53450">Alexandro</persName> M. D.
+                        L.</p>
+                    <p>Illustrissime princeps et domine frater noster charissime ac honorande. Nihil
+                        hucusque scripsimus V. I. Fr<hi rend="superscript">ti</hi> de morte ser<hi
+                            rend="superscript">mi</hi> olim regis ac domini et germani nostri
+                        charissimi. Quod imprimis effecit hic noster acerbus et luctuosus casus, qui
+                        nos in continuo moerore detinuit ac detinet, deinde tardiusculi fuimus, quia
+                        ipsi quoquemet vix triduo post obitum eiusdem ser<hi rend="superscript">mi</hi>
+                        domini et germani nostri eam calamitatem rescivimus. Nam ii, qui in tutela
+                        et ministerio ipsius fuerant, ne de aegritudine quidem nobis aliquid
+                        significaverant. Accessit ad hoc, quod, ut fieri solet in tali
+                        perturbatione, subito coacti fuimus, ad vocationem dominorum in <placeName
+                            key="Prusy" ref="http://www.wikidata.org/entity/Q918723">Prussia</placeName>
+                        existentium, ad has partes accurrere, pacandae et componendae huius gentis
+                        et regionis causa; et in hoc loco adhuc sumus, per curas et continuos
+                        labores Reipublicae servientes. Atque ideo V. I. Fr<hi rend="superscript">
+                        tas</hi> hanc nostram brevem cunctationem debet habere excusatam et rogamus
+                        illam, ut habeat.</p>
+                    <p>Ceterum etsi a pueritia et a prima pene infantia animus noster et fraternus
+                        amor cognitissimus est V. I. Fr<hi rend="superscript">ti</hi>, ita ut omnino
+                        superfluum esse videatur aliquid de nobis polliceri, tamen significamus
+                        eidem illud ipsum, quod iamdiu cognovit et experta est V. I. Fr<hi
+                            rend="superscript">tas</hi>: nos pro nostra erga eandem benivolentia
+                        omnia, quae eius causa facere possemus, et antea fecisse et semper facturos.
+                        Quae valeat feliciter et nos diligat ut consuevit et habeat commendatos.
+                        Datum...<note n="page_6-1" place="foot">W porównaniu z Nr. 1. 2. widzimy, że <persName
+                                key="Fryderyk Jagiellończyk"
+                                ref="https://wikihum.lab.dariah.pl/entity/Q152899">Fryderyk</persName>
+                        naciąga nieco okoliczności dla usprawiedliwienia swego opóźnienia. List ten
+                        widocznie pisał już po otrzymaniu listu <persName
+                                key="Aleksander Jagiellończyk"
+                                ref="http://www.wikidata.org/entity/Q53450">Aleksandra</persName> z <date
+                                when="1501-06-25">25 czerwca 1501</date> (Nr. 4), co mogło dopiero
+                        po <date when="1501-07-01">1 lipca</date> nastąpić. Czy pisał go jeszcze w <placeName
+                                key="Toruń" ref="http://www.wikidata.org/entity/Q47554">Toruniu</placeName>,
+                        czy już z <placeName key="Malbork"
+                                ref="http://www.wikidata.org/entity/Q146820">Malborga</placeName>,
+                        gdzie znajdujemy go <date when="1501-07-07">7 lipca</date> (MS. III. 1),
+                        trudno określić.</note>
+                    </p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Fryderyk, kardynał, do Aleksandra, Wielkiego Księcia Litewskiego.</p>
+                    <p>Najjaśniejszy książę i panie, nasz najdroższy i czcigodny bracie. Nic
+                        dotychczas nie napisaliśmy Waszej Najjaśniejszej Braterskiej Miłości o
+                        śmierci najjaśniejszego niegdyś króla i pana, naszego najdroższego rodzonego
+                        brata. Sprawiło to przede wszystkim to nasze gorzkie i bolesne nieszczęście,
+                        które trzymało i trzyma nas w nieustannym smutku, a ponadto byliśmy nieco
+                        spóźnieni, ponieważ my sami zaledwie w trzy dni po śmierci tegoż
+                        najjaśniejszego pana i naszego rodzonego brata dowiedzieliśmy się o tej
+                        tragedii. Ci bowiem, którzy sprawowali nad nim opiekę i służbę, nie dali nam
+                        znać nawet o jego chorobie. Doszło do tego, że, jak to zwykle bywa w takim
+                        zamieszaniu, zostaliśmy nagle zmuszeni, na wezwanie panów przebywających w
+                        Prusach, pośpieszyć w te strony w celu uspokojenia i uporządkowania tego
+                        ludu i regionu; i w tym miejscu nadal przebywamy, służąc Rzeczypospolitej
+                        poprzez troski i ciągłe trudy. I dlatego Wasza Najjaśniejsza Braterska
+                        Miłość powinna wybaczyć nam tę krótką zwłokę, i prosimy, aby wybaczyła.</p>
+                    <p>Poza tym, chociaż od chłopięctwa i niemal od wczesnego dzieciństwa nasze
+                        usposobienie i braterska miłość są doskonale znane Waszej Najjaśniejszej
+                        Braterskiej Miłości, tak że wydaje się całkowicie zbyteczne cokolwiek z
+                        naszej strony obiecywać, to jednak oznajmiamy jej to samo, co Wasza
+                        Najjaśniejsza Braterska Miłość już dawno poznała i doświadczyła: że my, z
+                        racji naszej życzliwości wobec niej, wszystko, co moglibyśmy uczynić dla jej
+                        sprawy, czyniliśmy wcześniej i zawsze będziemy czynić. Obyś cieszył się
+                        dobrym zdrowiem i darzył nas miłością, jak to masz w zwyczaju, i miał nas w
+                        swojej opiece. Dano...</p>
+                </div>
+            </div>
+            <pb n="7" />
+            <fw type="header">Nr. 8. 1501. 7</fw>
+            <div n="8" type="document">
+                <head>Nr. 8.</head>
+                <ab type="date-place">(<placeName key="Pasłęk"
+                        ref="http://www.wikidata.org/entity/Q988651">Preuss.
+                        Holland</placeName>)<date when="1501-07-11">11 lipca 1501</date>. </ab>
+                <ab type="summary">Układy posłów kardynała <persName key="Fryderyk Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q673151">Fryderyka</persName>,<persName
+                        key="Mikołaj Chrapicki" ref="http://www.wikidata.org/entity/Q11780713">
+                    Mikołaja</persName>, biskupa chełmińskiego i <persName key="Andrzej Szamotulski"
+                        ref="https://wikihum.lab.dariah.pl/entity/Q173992">Andrzeja
+                        z Szamotuł</persName>, wojewody kaliskiego z w. mistrzem. W. mistrz usuwa
+                    się od zaprzysiężenia na ich ręce, że niczego nie przedsięweźmie przeciwko
+                    Królestwu, jednakże składa takie zapewnienie i oświadcza, że będzie gorliwie
+                    pilnował porządku na pograniczu.</ab>
+                <ab type="source">Kopja współcz. urzędowa w Archiwum państw. w Królewcu:
+                    Ordensbriefarchiv, Registrant: Botschaft.</ab>
+                <div type="original" xml:lang="la">
+                    <p>Responsum datum episcopo Culmensi et d. <persName key="Andrzej Szamotulski"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q173992">Andree Zanthor</persName>
+                        oratoribus R. D. cardinalis<note n="page_7-1" place="foot">Kardynał <persName
+                                key="Fryderyk Jagiellończyk"
+                                ref="https://wikihum.lab.dariah.pl/entity/Q152903">Fryderyk</persName>
+                        do w. mistrza, <placeName key="Malbork"
+                                ref="http://www.wikidata.org/entity/Q146820">
+                                Marienburg</placeName> f. VI in oct. Visit. Marie [<date
+                                when="1501-07-09">9 lipca</date>]<date when="1501">1501</date>.
+                        Kredytywa dla posłów swoich »in certis nostre Reipublice negociis: <persName
+                                key="Mikołaj Chrapicki"
+                                ref="https://wikihum.lab.dariah.pl/entity/Q150578">Nicolaus</persName>,
+                        eppus Culmensis et <persName key="Andrzej Szamotulski"
+                                ref="https://wikihum.lab.dariah.pl/entity/Q173992">Andreas de
+                        Schamothuli</persName>, palat. Calischiensis« Arch. państw. w Królewcu.
+                        Ordensbriefarchiv (A. S.: Reg. A. A.).</note>
+<date when="1501-07-11">dominica
+                        Briccii, hoc est XI
+                            iulii anno 1501</date>
+<note n="page_7-2" place="foot">Suntag Briccii <date
+                                when="1501-07-11">11 lipca 1501</date>. hat m. g. h. die geschickten
+                        des cardinals verhort vor essens und darnach noch essens ir anbringen
+                        beratschlagt und sie noch dem abentmal abgefertigt ut in registro
+                        legacionum. Zapisek w Ordensfolianten 23 (A. 87) str. 289 w Archiwum państw.
+                        w Królewcu. Ob. też: L. Finkel, W sprawie udziału lenników w elekcyach
+                        jagiellońskich (Kwart. Hist. 1913 str. 87), gdzie jest przytoczone
+                        przedłożenie polskich posłów.</note>. </p>
+                    <p>Que hodie, reverendissime in Christo pater, nobilis ac magnifice domine,
+                        nomine rev<hi rend="superscript">mi</hi> et ill<hi rend="superscript">mi</hi>
+                        principis et domini, dni <persName key="Fryderyk Jagiellończyk"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q152903">Friderici</persName>
+                        s. Romanae ecclesiae cardinalis, locumtenentis regni <placeName key="Polska"
+                            ref="http://www.wikidata.org/entity/Q171348">Poloniae</placeName> etc.,
+                        exposuistis, repetere obmitto; partimque in recenti memoria scriptisque
+                        edita habentur, partimque supra vires meas esse video singula suo ordine et
+                        elegantia, qua dicta sunt, renovare. Summa tamen rei principalis, cuius
+                        gratia D. V. missae sunt, in duos articulos distributa fuit, quorum unus
+                        continebat r<hi rend="superscript">mum</hi> et ill<hi rend="superscript">mum</hi>
+                        d. cardinalem cum Regni consiliariis ex certis causis per D. V<hi
+                            rend="superscript">as</hi> expressis cupere ad plenum edoceri, qualem se
+                        ill. dominus magister generalis gesturus sit erga Regnum. Ad quem ill<hi
+                            rend="superscript">tas</hi> sua in hanc sentenciam respondere iussit: se
+                        nihil dubitare r<hi rend="superscript">mo</hi> et ill. domino cardinali
+                        notos esse tractatus, quos ill. d. magister cum R. M<hi rend="superscript">
+                        te</hi> semper felicis memoriae, dum in humanis ageret, per oratores
+                        utrinque habuit, quid legati exposuerint, quae responsa data sint, quid
+                        etiam novissime oratores S. D<hi rend="superscript">nis</hi> in <placeName
+                            key="Malbork" ref="http://www.wikidata.org/entity/Q146820">Marienburg</placeName>
+                        r<hi rend="superscript">mo</hi> et ill. d. cardinali exposuerint<note
+                            n="page_7-3" place="foot">Poselstwo w. mistrza do kardynała <persName
+                                key="Fryderyk Jagiellończyk"
+                                ref="http://www.wikidata.org/entity/Q673151">Fryderyka</persName>,
+                        sprawowane przez <persName key="Nickel Pflug"
+                                ref="http://www.wikidata.org/entity/Q20242882">N.
+                                Pflug</persName> i <persName key="Dietrich von Werthern"
+                                ref="http://www.wikidata.org/entity/Q1224209">Dr
+                                D. v. Werterde</persName>. Kredytywa z <date when="1501-07-05">5
+                        lipca 1501</date>. Spotkali się <date when="1501-07-06">6 lipca</date> w <placeName
+                                key="Elbląg" ref="http://www.wikidata.org/entity/Q104712">Elblągu</placeName>
+                        z saskimi posłami, mieli <date when="1501-07-07">7 lipca</date> audjencję u
+                        kardynała w <placeName key="Malbork"
+                                ref="http://www.wikidata.org/entity/Q146820">Malborgu</placeName> i
+                        powrócili do w. mistrza <date when="1501-07-08">8 t. m.</date> Kondolencja z
+                        powodu śmierci króla i wniosek odłożenia dalszych układów aż do wyboru
+                        nowego króla. Kardynał obiecuje odpowiedzieć przez osobne poselstwo — które
+                        właśnie mamy przed sobą. (Arch. państw. w Królewcu Reg. 21. p. 354, Reg. 23
+                        p. 287).</note> R<hi rend="superscript">m</hi> D<hi rend="superscript">em</hi>
+                        suam meminisse — ex quibus omnibus ill. d. magister confidit, r<hi
+                            rend="superscript">mum</hi> et ill. dominum cardinalem clare perspicere
+                        manifestas causas morae et declinationis praestandi iuramenti, quodque
+                        animus ill. suae d<hi rend="superscript">nis</hi> nunquam is fuit, qui
+                        quicquam hostile aut in detrimentum regni <placeName key="Polska"
+                            ref="http://www.wikidata.org/entity/Q171348">
+                            Poloniae</placeName> moliretur, sed semper R. M<hi rend="superscript">ti</hi>
+                        reverendissimoque d. cardinali unacum ser<hi rend="superscript">mis</hi>
+                        illustrissimisque fratribus suis, in quorum fidem causas suas reposuit,
+                        amicissimus deditissimusque fuerit, ut facile animi sui declaratio rumori
+                        vulgi, si quis est, de animorum</p>
+                    <pb n="8" />
+                    <fw type="header">8 1501. Nr. 8. 9</fw>
+                    <p>vacillatione praeferri possit. Qui rumor an ex professis ordinis procedat,
+                        ill. s. d. nescit, et plane, omnibus qui assunt se excusantibus, suspicari
+                        vix potest — hoc scit, nemini se unquam tale aliquod suspicandi
+                        proferendique occasionem dedisse, et ut plane ill. s. d. quod petitur
+                        exponat, dicit quod nunquam fuit neque hodie sit de mente ill. s. d<hi
+                            rend="superscript">nis</hi> quicquam contra Regnum ipsum moliri, idemque
+                        sibi ill. s. d. de ipso Regno persuadet.</p>
+                    <p>Pars altera querelas habebat, quomodo subditi ill. s. d<hi rend="superscript">
+                        nis</hi> mutatis formis incursiones furtivas in terras Regno subiectas
+                        faciant, licentiam latrocinandi ex impunitate usurpantes. De qua re ill. s.
+                        d. non parum miratur, quum patet eos qui haec queruntur non posse ignorare,
+                        qua diligentia ill. s. d. in conprimendis huiusmodi latrociniis usa sit,
+                        quot publica edicta ad omnes praeceptores, praefectos, officiales, civitates
+                        et generaliter subditos eius rei causa fecerit et ad inquirendum
+                        persequendumque eos, quocunque diverterent, praeceperit, quotiens etiam in
+                        publicis dietis et congregationibus tam nobilium quam civitatum mentem suam
+                        in hac re declaraverit. Sed nec occultum esse potest, qua severitate in
+                        deprehensos animadverterit, tot iam publice capite truncatis; quae
+                        diligentia severitasque si ex altera quoque parte fieret, nihil dubitat ill.
+                        s. d., quin brevi huiuscemodi latrocinia comprimi possent. Nec vero soli (ut
+                        audivit) hi, qui in regiis terris morantur, rebus suis spoliati sunt, sed et
+                        ill. d. s<hi rend="superscript">ae</hi> subditi non semel sed saepius ab
+                        huiusmodi hominibus gravia se damna passos queruntur. Utcunque sit, ill. d.
+                        sua pollicetur se omnem diligentiam, uti hucusque sedulo fecit, adhibituram,
+                        quo terrae istae ab huiusmodi latronibus purgatae pacate quieteque habitari
+                        possint.</p>
+                    <p>Super<note n="page_8-a" place="foot">Dodane inną ręką.</note> occulta
+                        relatione responsum est: non magnam esse, principemque deliberaturum et
+                        postquam deliberaverit, mentem suam r<hi rend="superscript">mo</hi> d.
+                        cardinali expositurum, scilicet per litteras vel nuntium idque, ut sperat,
+                        ante electionem novi regis.</p>
+                    <p>Super quo rursus replicatur, quod magister scire deberet, quod vellent
+                        eligere regem divitem et potentem, qui posset non solum conservare iura
+                        Regni, sed etiam ampliare et qui futurus esset vicinior domino magistro et
+                        ducatui <placeName key="Saksonia" ref="http://www.wikidata.org/entity/Q1202">
+                        Saxoniae</placeName>
+<note n="page_8-1" place="foot">Aluzja do <persName
+                                key="Władysław II Jagiellończyk"
+                                ref="http://www.wikidata.org/entity/Q155599">Władysława</persName>,
+                        króla <placeName key="Węgry" ref="http://www.wikidata.org/entity/Q28">Węgier</placeName>
+                        i <placeName key="Czechy" ref="http://www.wikidata.org/entity/Q39193">Czech</placeName>,
+                        odbija ówczesne usposobienie Wielkopolan.</note>. Et eis videretur utile,
+                        quod magister statim eis duobus praestaret iuramentum. quod nihil vellet
+                        attemptare contra Regnum, quod tunc vellent ea exponere, de quibus alias
+                        tacere oporteret.</p>
+                    <p>Magister generalis dissimulavit se....<note n="page_8-b" place="foot">Słowo
+                        nie do odczytania.</note> nec respondit aliud, quam quod vellet deliberare.</p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Odpowiedź udzielona biskupowi chełmińskiemu i panu Andrzejowi z Szamotuł,
+                        posłom przewielebnego pana kardynała, w niedzielę św. Brykcjusza, to jest 11
+                        lipca 1501 roku.</p>
+                    <p>To, co dzisiaj, najprzewielebniejszy w Chrystusie ojcze oraz szlachetny i
+                        wielmożny panie, wyłożyliście w imieniu najprzewielebniejszego i
+                        najjaśniejszego księcia i pana, pana Fryderyka, kardynała Świętego Kościoła
+                        Rzymskiego, namiestnika Królestwa Polskiego itd., pomijam powtarzać;
+                        częściowo bowiem zachowuje się to w świeżej pamięci i w wydanych pismach, a
+                        częściowo widzę, że przekracza to moje siły, aby odtworzyć poszczególne
+                        rzeczy w ich porządku i z elegancją, z jaką zostały wypowiedziane. Jednakże
+                        istota głównej sprawy, dla której Wasze Dostojności zostały przysłane,
+                        została podzielona na dwa artykuły, z których jeden zawierał to, że
+                        najprzewielebniejszy i najjaśniejszy pan kardynał wraz z doradcami
+                        Królestwa, z pewnych przyczyn wyrażonych przez Wasze Dostojności, pragnie
+                        zostać w pełni poinformowany, jak najjaśniejszy pan wielki mistrz zamierza
+                        postępować wobec Królestwa. Na co jego jasność kazał odpowiedzieć w takim
+                        oto sensie: że nie wątpi, iż najprzewielebniejszemu i najjaśniejszemu panu
+                        kardynałowi znane są rokowania, jakie najjaśniejszy pan mistrz prowadził
+                        przez obustronnych posłów z Jego Królewską Mością zawsze szczęśliwej
+                        pamięci, gdy ten jeszcze żył, co posłowie wyłożyli, jakie odpowiedzi zostały
+                        udzielone, a także co całkiem niedawno posłowie Jego Świątobliwości wyłożyli
+                        w Malborku najprzewielebniejszemu i najjaśniejszemu panu kardynałowi, o czym
+                        Jego Przewielebna Dostojność pamięta — z tego wszystkiego najjaśniejszy pan
+                        mistrz ufa, że najprzewielebniejszy i najjaśniejszy pan kardynał jasno
+                        dostrzega oczywiste przyczyny zwłoki i uchylania się od złożenia przysięgi,
+                        i że zamiarem jego jasności nigdy nie było knucie czegokolwiek wrogiego lub
+                        ze szkodą dla Królestwa Polskiego, lecz zawsze był on najbardziej przyjazny
+                        i oddany Jego Królewskiej Mości oraz najprzewielebniejszemu panu kardynałowi
+                        wraz z jego najjaśniejszymi i znakomitymi braćmi, w których wierności
+                        pokładał swoje sprawy, tak że łatwo można przedłożyć tę deklarację jego
+                        intencji nad plotki pospólstwa, jeśli takie istnieją, o chwiejności
+                        nastrojów. Czy ta plotka pochodzi od profesów zakonu, jego jasność nie wie,
+                        i szczerze mówiąc, skoro wszyscy obecni się usprawiedliwiają, z trudem może
+                        to podejrzewać — wie tylko to, że nigdy nikomu nie dał okazji do takich
+                        podejrzeń i ich rozgłaszania, a żeby jasno wyłożyć to, o co się prosi, jego
+                        jasność mówi, że nigdy nie było ani dzisiaj nie jest w jego zamiarze knuć
+                        czegokolwiek przeciwko samemu Królestwu, i tego samego jego jasność jest
+                        przekonany ze strony samego Królestwa.</p>
+                    <p>Druga część zawierała skargi, w jaki sposób poddani jego jasności, pod
+                        różnymi postaciami, dokonują potajemnych najazdów na ziemie podległe
+                        Królestwu, uzurpując sobie swobodę uprawiania zbójnictwa z powodu
+                        bezkarności. Z tego powodu jego jasność niemało się dziwi, skoro jest
+                        oczywiste, że ci, którzy się na to skarżą, nie mogą ignorować, jakiej
+                        pilności jego jasność użył w tłumieniu tego rodzaju zbójnictwa, ile
+                        publicznych edyktów wydał z tego powodu do wszystkich komturów, prefektów,
+                        urzędników, miast i ogólnie poddanych, i nakazał ścigać ich i poszukiwać,
+                        dokądkolwiek by się udali, i jak często na publicznych sejmikach i
+                        zgromadzeniach zarówno szlachty, jak i miast, deklarował swoje stanowisko w
+                        tej sprawie. Nie może też być tajemnicą, z jaką surowością karał
+                        schwytanych, skoro tak wielu już publicznie ścięto; gdyby taka pilność i
+                        surowość była stosowana także z drugiej strony, jego jasność nie wątpi, że
+                        wkrótce tego rodzaju zbójnictwo mogłoby zostać stłumione. I nie tylko ci
+                        (jak słyszał), którzy mieszkają na ziemiach królewskich, zostali obrabowani
+                        ze swego mienia, ale także poddani jego jasności nie raz, lecz częściej
+                        skarżą się, że ponieśli poważne szkody od tego rodzaju ludzi. Jakkolwiek by
+                        było, jego jasność obiecuje, że dołoży wszelkiej staranności, jak to
+                        dotychczas gorliwie czynił, aby te ziemie, oczyszczone z tego rodzaju
+                        zbójców, mogły być zamieszkiwane w pokoju i spokoju.</p>
+                    <p>Odnośnie tajnej relacji odpowiedziano: że nie jest ona wielka, i że książę
+                        się naradzi, a po naradzie przedstawi swoje stanowisko
+                        najprzewielebniejszemu panu kardynałowi, mianowicie przez list lub posłańca,
+                        i to, jak ma nadzieję, przed wyborem nowego króla.</p>
+                    <p>Na co z kolei zreplikowano, że mistrz powinien wiedzieć, iż chcą wybrać króla
+                        bogatego i potężnego, który mógłby nie tylko zachować prawa Królestwa, ale
+                        także je rozszerzyć, i który byłby bliższym sąsiadem pana mistrza i księstwa
+                        Saksonii. I wydawałoby im się pożyteczne, aby mistrz natychmiast złożył im
+                        obu przysięgę, że nie będzie chciał podejmować niczego przeciwko Królestwu,
+                        a wtedy zechcieliby wyłożyć to, o czym w przeciwnym razie należałoby
+                        milczeć.</p>
+                    <p>Wielki mistrz udał, że... i nie odpowiedział nic innego, jak tylko to, że
+                        chce się naradzić.</p>
+                </div>
+            </div>
+            <div n="9" type="document">
+                <head>Nr. 9.</head>
+                <ab type="date-place">B. m. d. r. <supplied reason="reconstruction">(<placeName
+                            key="Toruń" ref="http://www.wikidata.org/entity/Q47554">Toruń</placeName>
+<date
+                            cert="low" when="1501-07-15">ok. 15
+                            lipca 1501</date>) </supplied>. </ab>
+                <ab type="summary">
+                    <persName key="Fryderyk Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q673151">Fryderyk</persName> wzywa <persName
+                        key="Mikołaj Kościelecki" ref="https://wikihum.lab.dariah.pl/entity/Q158410">M.
+                    Kościeleckiego</persName> i <persName key="Jan Lasocki"
+                        ref="http://www.wikidata.org/entity/Q85862535">J. Lasockiego</persName>, aby
+                    udali się już raz do <placeName key="Prusy"
+                        ref="http://www.wikidata.org/entity/Q918723">
+                        Prus</placeName> celem odebrania przysięgi wierności i załatwienia pilnych
+                    spraw.</ab>
+                <ab type="source">Dwie kopje z Tomic. 1. P. 128 i 2. R. 116. — 3. T. N. 24, 567 ex
+                    2. Reg. Gołębiowski III 454 ex 3.</ab>
+                <div type="original" xml:lang="la">
+                    <p>
+                        <persName key="Fryderyk Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q673151">Fridericus</persName>...
+                        cardinalis <persName key="Mikołaj Kościelecki"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q158409">Nicolao
+                            Cosczieleczki</persName> praeposito Wladislaviensi, <persName
+                            key="Janusz Lasocki">Janussio</persName>
+<note n="page_8-2" place="foot">Może
+                        to błąd kopistów, gdyż jako succamerarius Posn. występuje przy końcu rządów <persName
+                                key="Jan I Olbracht" ref="http://www.wikidata.org/entity/Q53451">
+                        Olbrachta</persName> i za <persName key="Aleksander Jagiellończyk"
+                                ref="http://www.wikidata.org/entity/Q53450">Aleksandra</persName>
+<persName
+                                key="Stanisław Lasocki"
+                                ref="https://wikihum.lab.dariah.pl/entity/Q159832">Stanislaus
+                        Lassocczki</persName> (MS. II i III), <persName key="Jan Lasocki"
+                                ref="http://www.wikidata.org/entity/Q85862535">Joannes</persName>
+                        zaś jest dzierżawcą śremskim (MS. III, 210).</note> Lassocczki succamerario
+                        Posnaniensi.</p>
+                    <p>Venerabilis domine in Christo nobis dilecte! Constitutum fuit in conventione
+                        Novae Civitatis ac deinde in Colensi confirmatum, ut mitterentur domini in <placeName
+                            key="Prusy" ref="http://www.wikidata.org/entity/Q918723">Prussiam</placeName>
+                        ,
+</p>
+                    <pb n="9" />
+                    <fw type="header">Nr. 9. 10. 1501. 9</fw>
+                    <p>accepturi iuramenta a nobilitate et civitatibus illius regionis, vos autem
+                        fuistis ad hoc negotium inter alios designati. Cum itaque sentiamus ex
+                        variis querelis hominum illius gentis et aliis multis respectibus, longiorem
+                        moram profectionis vestrae esse periculosam et Regno et rebus ac quieti
+                        praefatae terrae, hortamur vos et affectamus, ut illuc eatis, peracturi ea,
+                        quae constituta sunt in praedictis conventionibus et provisuri aliis, quae
+                        intelligetis Reipublicae expedire. Quod ipsum quoque domino episcopo
+                        Plocensi et aliis dominis scripsimus faciendum, et facturos nihil dubitamus.
+                        De expensis autem ad iter vobis dandis egimus cum domino episcopo
+                        Vladislaviensi<note n="page_9-1" place="foot">Biskup płocki: <persName
+                                key="Wincenty Przerębski"
+                                ref="https://wikihum.lab.dariah.pl/entity/Q167084">Wincenty
+                        Przerębski</persName> (<date notAfter="1504" notBefore="1497">1497 — 1504</date>),
+                        włocławski a zarazem kanclerz: <persName key="Stanisław Kurozwęcki"
+                                ref="http://www.wikidata.org/entity/Q97687521">Stanisław z Kurozwęk</persName>
+                        (<date notAfter="1503" notBefore="1494">1494 — 1503</date>). </note>, qui
+                        assignabit vobis certam pecuniae summam de proventibus regiis in certo loco
+                        accipiendam. Datum<note n="page_9-2" place="foot">Rozchodzi się tu widocznie
+                        o zaprzysiężenie w czasie bezkrólewia. Pochodzi też zapewne to
+                        rozporządzenie jeszcze z czasu pobytu <persName key="Fryderyk Jagiellończyk"
+                                ref="http://www.wikidata.org/entity/Q673151">Fryderyka</persName> w <placeName
+                                key="Prusy" ref="http://www.wikidata.org/entity/Q918723">Prusiech</placeName>,
+                        bo mówi kardynał, że odczuwa (sentiamus) skargi tych ludzi. Jednakże nie
+                        może być umieszczone zaraz po N<hi rend="superscript">rze</hi> 1, jak to
+                        jest w Tomicjanach, ponieważ na odbycie sejmików i nadejście wieści o nich
+                        do kardynała trzeba odliczyć ze cztery tygodnie od śmierci króla.
+                        Przypuszczam tedy, że wydał to rozporządzenie kardynał po powrocie z <placeName
+                                key="Malbork" ref="http://www.wikidata.org/entity/Q146820">Malborga</placeName>,
+                        kiedy się wybierał z pogrzebem królewskim z <placeName key="Toruń"
+                                ref="http://www.wikidata.org/entity/Q47554">Torunia</placeName> do <placeName
+                                key="Kraków" ref="http://www.wikidata.org/entity/Q31487">Krakowa</placeName>,
+                        t. j. <date cert="low" when="1501-07-15">ok. 15 lipca</date>. </note>. </p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Fryderyk... kardynał, do Mikołaja Kościeleckiego, prepozyta włocławskiego, i
+                        Janusza Lasockiego, podkomorzego poznańskiego.</p>
+                    <p>Czcigodny panie w Chrystusie, nam umiłowany! Postanowiono na zjeździe w Nowym
+                        Mieście, a następnie potwierdzono w Kole, aby wysłać panów do Prus w celu
+                        odebrania przysiąg od szlachty i miast tamtego regionu, a wy zostaliście
+                        między innymi wyznaczeni do tego zadania. Ponieważ zatem z różnych skarg
+                        ludzi tamtego narodu i z wielu innych względów odczuwamy, że dłuższa zwłoka
+                        w waszym wyjeździe jest niebezpieczna zarówno dla Królestwa, jak i dla spraw
+                        oraz spokoju wspomnianej ziemi, zachęcamy was i pragniemy, abyście tam
+                        pojechali, w celu wykonania tego, co zostało postanowione na wspomnianych
+                        zjazdach, i zaradzenia innym sprawom, które uznacie za pożyteczne dla
+                        Rzeczypospolitej. To samo napisaliśmy również do wykonania panu biskupowi
+                        płockiemu i innym panom, i nie wątpimy, że to uczynią. Co do wydatków na
+                        podróż, które mają wam zostać przyznane, omówiliśmy to z panem biskupem
+                        włocławskim, który wyznaczy wam pewną sumę pieniędzy z dochodów królewskich,
+                        do odebrania w określonym miejscu. Dano.</p>
+                </div>
+            </div>
+            <div n="10" type="document">
+                <head>Nr. 10.</head>
+                <ab type="date-place">
+                    <placeName key="Konstantynopol" ref="http://www.wikidata.org/entity/Q406">
+                    Konstantynopol</placeName>
+<date when="1501-07-19">19 lipca 1501</date>. </ab>
+                <ab type="summary">Sułtan <persName key="Bajazyd II"
+                        ref="http://www.wikidata.org/entity/Q165983">Bajazet
+                        II</persName> zawiera rozejm z <persName key="Jan I Olbracht"
+                        ref="http://www.wikidata.org/entity/Q53451">Janem Olbrachtem</persName> na
+                    ręce posła królewskiego <persName key="Mikołaj Lanckoroński"
+                        ref="https://wikihum.lab.dariah.pl/entity/Q159735">Mik. Lanckorońskiego</persName>.
+                    W przypisku instrukcja <persName key="Mikołaj Lanckoroński"
+                        ref="https://wikihum.lab.dariah.pl/entity/Q159735">Lanckorońskiego</persName>
+<note
+                        n="page_9-3" place="foot">Legatio cum informatione ad Turcum per <persName
+                            key="Jan Olbracht" ref="http://www.wikidata.org/entity/Q53451">Albertum</persName>
+                    regem commissa. Ser<hi rend="superscript">mus</hi> dnus rex <placeName
+                            key="Węgry" ref="http://www.wikidata.org/entity/Q28">Hungariae</placeName>
+                    misit domino meo grat<hi rend="superscript">mo</hi> regi <placeName key="Polska"
+                            ref="http://www.wikidata.org/entity/Q171348">Poloniae</placeName>
+                    treugas pacis per V. Ser<hi rend="superscript">tem</hi> cum ipsis dnis <placeName
+                            key="Węgry" ref="http://www.wikidata.org/entity/Q28">Hungariae</placeName>
+                    et <placeName key="Polska" ref="http://www.wikidata.org/entity/Q171348">Poloniae</placeName>
+                    regibus et cum dno magno duce <placeName key="Litwa"
+                            ref="http://www.wikidata.org/entity/Q37">Lithuaniae</placeName> fratre
+                    ipsorum factas, de quibus dominus meus gratus est, et vult eas servare ut decet
+                    ad amicum, prout inter antecessores V. Ser<hi rend="superscript">tum</hi>
+                    amicitia servata erat. Ut autem Ser<hi rend="superscript">tas</hi> V.
+                    postulavit, factis treugis pacis cum oratoribus s<hi rend="superscript">mi</hi>
+                    dni regis <placeName key="Węgry" ref="http://www.wikidata.org/entity/Q28">
+                    Hungariae</placeName>, quod dominus meus rex <placeName key="Polska"
+                            ref="http://www.wikidata.org/entity/Q171348">
+                            Poloniae</placeName> nuncium suum ad Ser<hi rend="superscript">tem</hi>
+                    V. mitteret, impraesentiarum me misit, ut ipsas treugas pacis et amicitiam
+                    firmiter servandam inter Ser<hi rend="superscript">tes</hi> V. vice et nomine
+                    mei grat<hi rend="superscript">mi</hi> dni regis <placeName key="Polska"
+                            ref="http://www.wikidata.org/entity/Q171348">Poloniae</placeName>
+                    confirmem; et ut ipsa pax et amicitia deinceps firma et illaesa perseveret et
+                    permaneat, vult dominus meus, ut nuncii ab utraque parte saepius ultro citroque
+                    inter V. Ser<hi rend="superscript">tes</hi> vadant secure et quiete. Verum quia
+                    domino meo ser<hi rend="superscript">mo</hi> praesentium treugarum pacis ac
+                    amicitiae inter V. Ser<hi rend="superscript">tem</hi> ac ipsum factarum terminus
+                    brevis esse videtur, igitur affectat dominus meus ser<hi rend="superscript">mus</hi>,
+                    ut Ser<hi rend="superscript">tas</hi> V. in longiores treugas pacis condescendat
+                    cum sua Ser<hi rend="superscript">te</hi>, ut interea amicitia et firmitas inter
+                    V. Ser<hi rend="superscript">tes</hi> stabiliatur, stabilisque et firma
+                    observetur. Si Turcus fecerit mentionem de dando sibi tributo, eidem est
+                    respondendum: Non est mihi commissum de hoc aliquid tractare propterea, quod
+                    dominus meus dno caesari ex affectu vult esse amicus, sed hoc scio et vos pro
+                    certo habete, quod dominus meus, volens conservare firmam et diuturnam amicitiam
+                    cum dno caesare, saepe mittet nuntios suos ad suam Ser<hi rend="superscript">tem</hi>,
+                    et honorabit suam Ser<hi rend="superscript">tem</hi> ut amicus amicum, et non
+                    dubitat dominus meus dnm caesarem similiter facturum. Si nuntios separatim
+                    collocare in hospitiis sive audire voluerint, uterque dicet: missi sumus a
+                    concordibus fratribus ad dnum caesarem in una eadem amicitiae actione, expedit
+                    itaque et ita nobis a nostris dnis commissum est, ut pariter et unanimi voto
+                    omnia faciamus, utque similiter cohabitemus. Si quaesitum fuerit, quare magni
+                    ducis orator cum ipsis non venerit, dicendum est: Orator dni et magni ducis ideo
+                    non venit, quia regnum <placeName key="Polska"
+                            ref="http://www.wikidata.org/entity/Q171348">
+                            Poloniae</placeName> et magnus ducatus unum sunt. Tametsi illic dux et
+                    dominus specialis est, subest tamen ser<hi rend="superscript">mo</hi> dno meo
+                    regi <placeName key="Polska" ref="http://www.wikidata.org/entity/Q171348">
+                    Poloniae</placeName> tanquam ab ipso ibidem constitutus. Iccirco ipse dux <placeName
+                            key="Litwa" ref="http://www.wikidata.org/entity/Q37">Lithuaniae</placeName>,
+                    tanquam obnoxius dni regis <placeName key="Polska"
+                            ref="http://www.wikidata.org/entity/Q171348">
+                            Poloniae</placeName>, treugas pacis cum dno caesare eas, quas fecerit
+                    ser<hi rend="superscript">mus</hi> dnus rex <placeName key="Polska"
+                            ref="http://www.wikidata.org/entity/Q171348">Poloniae</placeName>,
+                    servare tenebitur. Qualitas firmandae pacis. Treugae pacis cum Turco sic
+                    firmandae sunt iuramento, quemadmodum alias fimabantur vivente ser<hi
+                            rend="superscript">mo</hi> dno parente nostro. De captivis restituendis
+                    caesar petendus est post firmatas treugas pacis in hunc modum: Dne caesar,
+                    dominus meus rex petit te, sicuti bonum amicum, ut sui regni homines, sive
+                    captos sive venditos, in tuo imperio existentes, restitui facias. Idem ipse
+                    dominus meus rex facere de tuis captivis, qui in regno suo detinentur, vult. Si
+                    recusabit restitui facere, propterea quia empti essent, petendus, ut saltem
+                    eosdem iusto pretio indulgeat reemere ab illis apud quos essent. Item factis
+                    treugis pacis cum imperatore longioribus, postulandum est ab imperatore, ut
+                    Tartaro Praecopensi praecipiat, ut ipse quoque pacem ipsam teneat et ab
+                    inferendis clam sive publice damnis dominiis R. M<hi rend="superscript">tis</hi>
+                    abstineat. RL. I. 28. Excerpt: Ł. Gołębiowski, Dzieje Polski za Jagiellonów T.
+                    III (1848) str. 402. Instrukcję tę otrzymał <persName
+                            key="Stanisław Lanckoroński"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q159740">Lanckoroński</persName>
+<date
+                            notAfter="1501-02-28" notBefore="1501-01-01">w pierwszych dniach r. 1501</date>,
+                    kiedy wraz z powracającym posłem tureckim wyprawiony był do <placeName
+                            key="Konstantynopol" ref="http://www.wikidata.org/entity/Q16869">
+                    Konstantynopola</placeName>. Por. Caro, G. P. V 810.</note>. </ab>
+                <ab type="source">1. Kopja współcz. R. L. I. 25<hi rend="superscript">v</hi>. — 2.
+                    T. N. 24, 387—392. ex 1.</ab>
+                <div type="original" xml:lang="la">
+                    <p>Treugae pacis ab imperatore Turcorum per <persName key="Mikołaj Lanckoroński"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q159735">Nicolaum
+                            Lanczkoroński</persName> obtentae<note n="page_9-a" place="foot">Innem
+                        pismem dodane: qui <persName key="Mikołaj Lanckoroński"
+                                ref="https://wikihum.lab.dariah.pl/entity/Q159735">Lanczkoronski</persName>
+                        per olim ser<hi rend="superscript">mum</hi>
+<persName key="Jan Olbracht"
+                                ref="http://www.wikidata.org/entity/Q53451">Albertum</persName>
+                        regem missus erat Turciam, sed interim rex obiit morte, et nihilominus
+                        treugae concessae erant, nam ignorabat imperator et nuncius regius de morte
+                        regis.</note>. </p>
+                    <p>Sultan <persName key="Bajazyd II"
+                            ref="http://www.wikidata.org/entity/Q165983">Bayazeth</persName> han,
+                        Dei gratia imperator Graeciae, Asiae atque Europae et marium. Notum omnibus
+                        facimus, quia veniens coram nobis generosus <persName
+                            key="Mikołaj Lanckoroński"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q159735">Nicolaus Lanczko-</persName>
+                    </p>
+                    <pb n="10" />
+                    <fw type="header">10 1501. Nr. 10.</fw>
+                    <p>ronski, orator ser<hi rend="superscript">mi</hi> principis dni <persName
+                            key="Jan Olbracht" ref="http://www.wikidata.org/entity/Q53451">Johannis
+                        Alberti</persName>, regis <placeName key="Polska"
+                            ref="http://www.wikidata.org/entity/Q171348">Poloniae</placeName>, Dei
+                        gratia ducis <placeName key="Litwa" ref="http://www.wikidata.org/entity/Q37">
+                        Lithuaniae</placeName>,<placeName key="Ruś"
+                            ref="http://www.wikidata.org/entity/Q609850">Russiae</placeName>.<placeName
+                            key="Prusy" ref="http://www.wikidata.org/entity/Q918723">Prussiae</placeName>,
+                        amici et vicini nostri charissimi, et ex parte praefatae M<hi
+                            rend="superscript">
+                            tis</hi>, amici nostri, nobis aliqua verba retulit et acquisivit illam
+                        pacem et amicitiam, quam nos cum sua M<hi rend="superscript">te</hi> per
+                        nostrum oratorem composuimus, qualem sua M<hi rend="superscript">tas</hi>
+                        benivole accepit, etiam mediante iuramento facto in praesentia oratoris
+                        nostri et litteris a sua M<hi rend="superscript">te</hi> missis nobis
+                        corroborando et confirmando. Similiter mediante iuramento nostro et litteris
+                        nostris confirmamus, corrobamus in tali modo, ut illa amicitia et pax, quam
+                        cum praedicto ser<hi rend="superscript">mo</hi> rege, amico nostro et
+                        dominiis quibuslibet acceptamus et accepimus, illam fortificamus,
+                        confirmamus <date when="1501-05-13">a
+                            tredecima magii anno Jesu 1501</date> usque quando nobis et praefato
+                        regi, amico nostro et cum omnibus subditis et dominiis ex ambabus partibus
+                        conservare et firmiter tenere voluerimus et permittimus, in tali modo et
+                        ordine: Primitus, quod exnunc usque ad tempus supra expressum cum praefata M<hi
+                            rend="superscript">te</hi> servabimus pacem et amicitiam custodiemus, et
+                        nullum damnum per nos neque per subditos nostros [contra] praefatum regem
+                        sive subditos suos facere vel in aliquo modo ordinare, atque facere
+                        iustitiam et mutuam caritatem inter nos et subditos nostros simul
+                        conservabimus. Et oratores nostri</p>
+                    <pb n="11" />
+                    <fw type="header">Nr. 10. 1501. 11</fw>
+                    <p>ex utraque parte, totiens quotiens necesse erit, ire et redire sine aliqua
+                        violentia neque periculo secure et pacifice possint. Item captivi ex utraque
+                        parte possint requiri in dominiis utriusque partium, maxime illi qui capti
+                        fuerunt ante hanc praesentem treugam pacis, cum reperientur per Christianos,
+                        exemere possint cum voluntate patronum eorum sive dominorum. Item illi qui
+                        erunt capti post hanc pacem, liberi sine aliquo pretio exire debent. Item
+                        donec haec pax inter nos et praefatam M<hi rend="superscript">tem</hi>
+                        instabit, mercatores ex utraque parte exercere mercaturam pro commodis eorum
+                        libere possint, ire ex uno dominio ad aliud sine ulla oppressione neque
+                        praeiudicio, sine iniuria exercere mercaturam in terris et dominiis nostris
+                        possint. Verum tamen secundum consuetudinem antiquam in illis locis, ubi
+                        solent navigia et vectigalia solvere, iusto modo solvent. Item si aliqui
+                        mercatores ex dominiis praefati regis morientur in terris et dominiis
+                        nostris, omnem facultatem et mercaturam illius non recipietur a nobis, sed
+                        conservetur eadem<note n="page_11-a" place="foot">w tekście: idem</note>
+                        substantia, donec veniet aliquis parens sanguine coniunctus cum litteris
+                        praefatae M<hi rend="superscript">tis</hi> testificatoriis, tunc illae
+                        facultates per mandatum nostrum restituentur. Item praefatus rex in simili
+                        casu taliter facere debet. Item si tempore treugae pacis in utraque [parte],
+                        seu praefatus rex vel sua subductione sive industria in occulto sive palam
+                        committeretur aliquod damnum sive incursionem, vel nos vel nostri subditi
+                        vel mali factores, ipsi mali factores debent esse puniti sine aliqua
+                        excusatione, et damna facta per illos malos factores debent esse reformata
+                        et restituta in locis eorum, et maxime omnes qui erunt captivati per aliquam
+                        malitiam debent restitui et liberari propter hoc, ut conservetur iustitia et
+                        pax [ex] utraque partium. Item si esset aliquis in dominio nostro, qui
+                        teneretur aliquod debitum aliquibus ex subditis praefatae R. M<hi
+                            rend="superscript">tis</hi>, tunc actor ille ut conservetur iustitia,
+                        debet ire coram iudicium, et ministrabitur sibi iustitia per nostros iudices
+                        iuxta legem Dei, ut non patiatur iustus pro impio. Similiter debet facere
+                        praefatus rex in suis dominiis subditis nostris. Res omnes praedictae atque
+                        expressae firmiter et inviolabiliter atque integraliter servo, et servare
+                        promittimus iuxta iuramentum, promittimus et iuramus in his verbis, ut omnes
+                        res suprascriptae de amicitia coniuncta inter nos et praefatum regem etiam
+                        de dominiis nostris conservare, in bona fide tenere, servare, sine
+                        fraudulentia et cavillatione aliqua excogitata servabimus, tenebimus, et
+                        nostris subditis servare deducemus atque faciemus et curabimus, ut
+                        removerentur omnes insidiae. Et sic Deus iuvet nos et iuramus per Deum
+                        Omnipotentem et legem nostram, quod nulla contrarietas in his pactis exiet
+                        ex nobis, sed ille qui pertransiet et erit causa et ipse esset periurus,
+                        Deus ipse puniet eum, faciet ipsum indignum et inprosperum. Et istum
+                        praesentem (s) iuramentum nostrum dedimus ad manus strenui et generosi <persName
+                            key="Mikołaj Lanckoroński"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q159735">Nicolai Lanczkoroński</persName>
+                        oratoris praefati regis, et per praesentes litteras praedicta amicitia et
+                        pax inter nos confirmamus, quas propria manu ad manus eidem dedimus, prout
+                        fuisset praefata M<hi rend="superscript">tas</hi> propria [persona]
+                        praesens. Datum in aula nostra <date when="1501-07-18">XVIII iulii 1501</date>.
+                        Ex <placeName key="Konstantynopol"
+                            ref="http://www.wikidata.org/entity/Q16869">Constantinopoli</placeName>
+<note
+                            n="page_11-1" place="foot">Tekst, mimo poprawienia widocznych błędów
+                        pisarskich, bardzo wadliwej konstrukcji — szczególnie miesza się nom. i acc.
+                        Niewątpliwie <persName key="Aleksander Jagiellończyk"
+                                ref="http://www.wikidata.org/entity/Q53450">
+                                Aleksander</persName> pisząc list Nr. 43 (z <date when="1501-12-21">21
+                        grudnia 1501</date>) znał już ten akt, jakkolwiek powrót <persName
+                                key="Stanisław Lanckoroński"
+                                ref="https://wikihum.lab.dariah.pl/entity/Q159740">Lanckorońskiego</persName>
+                        był opóźniony, ponieważ na wieść o śmierci <persName key="Jan Olbracht"
+                                ref="http://www.wikidata.org/entity/Q53451">Olbrachta</persName>
+                        zatrzymano go w <placeName key="Mołdawia"
+                                ref="http://www.wikidata.org/entity/Q18366588">
+                                Mołdawii</placeName>. Ob. Nr. 20 i 42 b.</note>. </p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Rozejm pokojowy uzyskany od cesarza Turków przez Mikołaja Lanckorońskiego.</p>
+                    <p>Sułtan Bajazet chan, z Bożej łaski cesarz Grecji, Azji oraz Europy i mórz.
+                        Czynimy wiadomym wszystkim, że przybywając przed nasze oblicze urodzony
+                        Mikołaj Lanckoroński, poseł najjaśniejszego księcia pana Jana Olbrachta,
+                        króla Polski, z Bożej łaski księcia Litwy, Rusi, Prus, naszego najdroższego
+                        przyjaciela i sąsiada, przekazał nam pewne słowa w imieniu wspomnianego Jego
+                        Królewskiej Mości, naszego przyjaciela, i uzyskał ten pokój i przyjaźń,
+                        które my ułożyliśmy z Jego Królewską Mością przez naszego posła, a które
+                        Jego Królewska Mość życzliwie przyjął, co zostało również potwierdzone i
+                        umocnione poprzez przysięgę złożoną w obecności naszego posła oraz listy
+                        przesłane nam przez Jego Królewską Mość. Podobnie my, za pośrednictwem
+                        naszej przysięgi i naszych listów, potwierdzamy i umacniamy w taki sposób,
+                        że tę przyjaźń i pokój, które z wymienionym najjaśniejszym królem, naszym
+                        przyjacielem, i wszelkimi jego państwami akceptujemy i zaakceptowaliśmy,
+                        wzmacniamy i potwierdzamy od trzynastego maja roku Jezusowego 1501 aż do
+                        czasu, kiedy my i wspomniany król, nasz przyjaciel, wraz ze wszystkimi
+                        poddanymi i państwami z obu stron będziemy chcieli je zachować i mocno
+                        trzymać, i na to pozwalamy, w następujący sposób i porządku:</p>
+                    <p>Po pierwsze, że od teraz aż do czasu wyżej wyrażonego będziemy zachowywać
+                        pokój i strzec przyjaźni ze wspomnianym Jego Królewską Mością, i nie
+                        wyrządzimy ani nie nakażemy w żaden sposób wyrządzić żadnej szkody przez nas
+                        ani przez naszych poddanych przeciwko wspomnianemu królowi lub jego
+                        poddanym, a także będziemy wspólnie zachowywać sprawiedliwość i wzajemną
+                        miłość między nami i naszymi poddanymi. A nasi posłowie z obu stron, ilekroć
+                        będzie to konieczne, będą mogli bezpiecznie i w pokoju udawać się i powracać
+                        bez żadnej przemocy ani niebezpieczeństwa. Ponadto jeńcy z obu stron będą
+                        mogli być poszukiwani w państwach obu stron, zwłaszcza ci, którzy zostali
+                        wzięci do niewoli przed tym obecnym rozejmem pokojowym; gdy zostaną
+                        odnalezieni przez chrześcijan, będą mogli zostać wykupieni za zgodą ich
+                        panów lub właścicieli. Ponadto ci, którzy zostaną wzięci do niewoli po
+                        zawarciu tego pokoju, powinni wyjść na wolność bez żadnego okupu. Ponadto,
+                        dopóki ten pokój między nami a wspomnianym Jego Królewską Mością będzie
+                        trwał, kupcy z obu stron będą mogli swobodnie uprawiać handel dla swoich
+                        korzyści, przemieszczać się z jednego państwa do drugiego bez żadnego ucisku
+                        ani uszczerbku, i bez krzywdy uprawiać handel na naszych ziemiach i w
+                        państwach. Jednakże, zgodnie ze starym zwyczajem, w tych miejscach, gdzie
+                        zwykli płacić opłaty za statki i cła, będą je płacić w sprawiedliwy sposób.
+                        Ponadto, jeśli jacyś kupcy z państw wspomnianego króla umrą na naszych
+                        ziemiach i w państwach, cały ich majątek i towary nie zostaną przez nas
+                        przejęte, lecz ta sama substancja zostanie zachowana, dopóki nie przybędzie
+                        jakiś krewny złączony więzami krwi z listami uwierzytelniającymi od
+                        wspomnianego Jego Królewskiej Mości, a wtedy te majątki zostaną zwrócone na
+                        nasz rozkaz. Podobnie wspomniany król powinien postąpić w takim samym
+                        przypadku.</p>
+                    <p>Ponadto, jeśli w czasie trwania rozejmu pokojowego po obu stronach, czy to
+                        wspomniany król, czy to z jego poduszczenia lub starania, potajemnie lub
+                        jawnie, zostałaby popełniona jakaś szkoda lub najazd, czy to przez nas, czy
+                        przez naszych poddanych lub złoczyńców, ci złoczyńcy muszą zostać ukarani
+                        bez żadnego usprawiedliwienia, a szkody wyrządzone przez tych złoczyńców
+                        muszą zostać naprawione i zwrócone na ich miejscach, a zwłaszcza wszyscy,
+                        którzy zostaną wzięci do niewoli przez jakąś złośliwość, muszą zostać
+                        zwróceni i uwolnieni po to, aby zachowana była sprawiedliwość i pokój z obu
+                        stron. Ponadto, gdyby w naszym państwie był ktoś, kto byłby winien jakiś
+                        dług komuś z poddanych wspomnianego Jego Królewskiej Mości, wówczas ten
+                        powód, aby zachować sprawiedliwość, powinien udać się przed sąd, i zostanie
+                        mu wymierzona sprawiedliwość przez naszych sędziów zgodnie z prawem Bożym,
+                        aby sprawiedliwy nie cierpiał za niegodziwego. Podobnie powinien postępować
+                        wspomniany król w swoich państwach wobec naszych poddanych. Wszystkie wyżej
+                        wymienione i wyrażone rzeczy mocno, nienaruszalnie i w całości zachowuję, i
+                        obiecujemy zachować zgodnie z przysięgą, obiecujemy i przysięgamy w tych
+                        słowach, że wszystkie wyżej opisane rzeczy dotyczące przyjaźni zawartej
+                        między nami a wspomnianym królem, a także dotyczące naszych państw, będziemy
+                        zachowywać, w dobrej wierze trzymać, przestrzegać, bez żadnego oszustwa i
+                        wymyślonego wykrętu będziemy ich strzec i trzymać się ich, i doprowadzimy do
+                        tego, aby nasi poddani ich przestrzegali, i sprawimy oraz zadbamy, aby
+                        usunięto wszelkie zasadzki. I tak niech nam Bóg dopomoże, i przysięgamy na
+                        Boga Wszechmogącego i nasze prawo, że z naszej strony nie wyjdzie żadne
+                        naruszenie tych układów, a ten, kto je przekroczy i będzie tego przyczyną, i
+                        sam okaże się krzywoprzysięzcą, tego sam Bóg ukarze, uczyni go niegodnym i
+                        pozbawi pomyślności. I tę naszą obecną przysięgę złożyliśmy na ręce
+                        dzielnego i urodzonego Mikołaja Lanckorońskiego, posła wspomnianego króla, i
+                        przez niniejsze listy potwierdzamy wspomnianą przyjaźń i pokój między nami,
+                        które własnoręcznie daliśmy mu do rąk, tak jakby wspomniany Jego Królewska
+                        Mość był osobiście obecny. Dano na naszym dworze 18 lipca 1501 roku. Z
+                        Konstantynopola.</p>
+                </div>
+            </div>
+
+            <div n="11" type="document">
+                <head>Nr. 11.</head>
+                <ab type="date-place">B. m. d. r. <supplied reason="reconstruction">( <placeName
+                            key="Gniezno" ref="http://www.wikidata.org/entity/Q51432">Gniezno</placeName>
+                    <date when="1501-06-19">19
+                            czerwca 1505</date>) </supplied>. </ab>
+                <ab type="summary">
+                    <persName key="Zygfryd Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q262986">Fryderyk</persName> do dostojników ruskich. </ab>
+                <ab type="source">Dwie kopje z Tomic. 22. P. 127 i 2. R. 115—116 </ab>
+                <div type="original" xml:lang="la">
+                    <p>
+                        <persName key="Zygfryd Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q673151">Zygfrydus</persName>...
+                        cardinalis <persName key="Łukasz Watzenrode"
+                            ref="http://www.wikidata.org/entity/Q1347063">Lucae</persName> Varmiensi
+                        episcopo, <persName key="Mikołaj Chrapicki"
+                            ref="http://www.wikidata.org/entity/Q11780713">Nicolao</persName>
+                        Culmensi episcopo, <persName key="Mikołaj Bażyński"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q148918">Nicolao de Baisen</persName>
+                        palatino Marienburgensi.</p>
+                    <p>Reverendi in Christo patres, magnificeque domine! Ea erat sententia et
+                        desiderium nostrum, ut quam primum certiores redditi simus de gravissima
+                        aegritudine ac deinde non multo post de acerbo casu et obitu ser<hi
+                            rend="superscript">mi</hi> domini nostri, istuc sine mora veniremus, cum
+                        cohonestandi funeris eiusdem domini nostri, tum etiam vobiscum consultandi
+                        causa de his, quae pertinerent et necessaria essent ad quietem et
+                        securitatem Regni et vestram.</p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Zygfryd... kardynał, do Łukasza, biskupa warmińskiego, Mikołaja, biskupa
+                        chełmińskiego, Mikołaja z Bażyn, wojewody malborskiego.</p>
+                    <p>Wielebni w Chrystusie ojcowie i wielmożny panie! Takim było nasze
+                        postanowienie i pragnienie, abyśmy, gdy tylko zostaliśmy powiadomieni o
+                        najcięższej chorobie, a niedługo potem o bolesnym zdarzeniu i śmierci
+                        najjaśniejszego pana naszego, bez zwłoki tam przybyli, zarówno w celu
+                        oddania honorów pogrzebowi tegoż pana naszego, jak i w celu naradzenia się z
+                        wami w sprawach, które dotyczyłyby i były niezbędne dla spokoju i
+                        bezpieczeństwa Królestwa oraz waszego. </p>
+                </div>
+            </div>
+
+            <div n="12" type="document">
+                <head>Nr. 12.</head>
+                <ab type="date-place">B. m. d. r. <supplied reason="reconstruction">( <placeName
+                            key="Gniezno" ref="http://www.wikidata.org/entity/Q51432">Gniezno</placeName>
+                    <date when="1501-06-19">19
+                            czerwca 1505</date>) </supplied>. </ab>
+                <ab type="summary">
+                    <persName key="Zygfryd Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q262986">Fryderyk</persName> do dostojników ruskich. </ab>
+                <ab type="source">Dwie kopje z Tomic. 22. P. 127 i 2. R. 115—116 </ab>
+                <div type="original" xml:lang="la">
+                    <p>
+                        <persName key="Zygfryd Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q673151">Zygfrydus</persName>...
+                        cardinalis <persName key="Łukasz Watzenrode"
+                            ref="http://www.wikidata.org/entity/Q1347063">Lucae</persName> Varmiensi
+                        episcopo, <persName key="Mikołaj Chrapicki"
+                            ref="http://www.wikidata.org/entity/Q11780713">Nicolao</persName>
+                        Culmensi episcopo, <persName key="Mikołaj Bażyński"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q148918">Nicolao de Baisen</persName>
+                        palatino Marienburgensi.</p>
+                    <p>Reverendi in Christo patres, magnificeque domine! Ea erat sententia et
+                        desiderium nostrum, ut quam primum certiores redditi simus de gravissima
+                        aegritudine ac deinde non multo post de acerbo casu et obitu ser<hi
+                            rend="superscript">mi</hi> domini nostri, istuc sine mora veniremus, cum
+                        cohonestandi funeris eiusdem domini nostri, tum etiam vobiscum consultandi
+                        causa de his, quae pertinerent et necessaria essent ad quietem et
+                        securitatem Regni et vestram.</p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Zygfryd... kardynał, do Łukasza, biskupa warmińskiego, Mikołaja, biskupa
+                        chełmińskiego, Mikołaja z Bażyn, wojewody malborskiego.</p>
+                    <p>Wielebni w Chrystusie ojcowie i wielmożny panie! Takim było nasze
+                        postanowienie i pragnienie, abyśmy, gdy tylko zostaliśmy powiadomieni o
+                        najcięższej chorobie, a niedługo potem o bolesnym zdarzeniu i śmierci
+                        najjaśniejszego pana naszego, bez zwłoki tam przybyli, zarówno w celu
+                        oddania honorów pogrzebowi tegoż pana naszego, jak i w celu naradzenia się z
+                        wami w sprawach, które dotyczyłyby i były niezbędne dla spokoju i
+                        bezpieczeństwa Królestwa oraz waszego. </p>
+                </div>
+            </div>
+
+            <div n="13" type="document">
+                <head>Nr. 13.</head>
+                <ab type="date-place">B. m. d. r. <supplied reason="reconstruction">( <placeName
+                            key="Gniezno" ref="http://www.wikidata.org/entity/Q51432">Gniezno</placeName>
+                    <date when="1501-06-19">19
+                            czerwca 1505</date>) </supplied>. </ab>
+                <ab type="summary">
+                    <persName key="Zygfryd Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q262986">Fryderyk</persName> do dostojników ruskich. </ab>
+                <ab type="source">Dwie kopje z Tomic. 22. P. 127 i 2. R. 115—116 </ab>
+                <div type="original" xml:lang="la">
+                    <p>
+                        <persName key="Zygfryd Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q673151">Zygfrydus</persName>...
+                        cardinalis <persName key="Łukasz Watzenrode"
+                            ref="http://www.wikidata.org/entity/Q1347063">Lucae</persName> Varmiensi
+                        episcopo, <persName key="Mikołaj Chrapicki"
+                            ref="http://www.wikidata.org/entity/Q11780713">Nicolao</persName>
+                        Culmensi episcopo, <persName key="Mikołaj Bażyński"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q148918">Nicolao de Baisen</persName>
+                        palatino Marienburgensi.</p>
+                    <p>Reverendi in Christo patres, magnificeque domine! Ea erat sententia et
+                        desiderium nostrum, ut quam primum certiores redditi simus de gravissima
+                        aegritudine ac deinde non multo post de acerbo casu et obitu ser<hi
+                            rend="superscript">mi</hi> domini nostri, istuc sine mora veniremus, cum
+                        cohonestandi funeris eiusdem domini nostri, tum etiam vobiscum consultandi
+                        causa de his, quae pertinerent et necessaria essent ad quietem et
+                        securitatem Regni et vestram.</p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Zygfryd... kardynał, do Łukasza, biskupa warmińskiego, Mikołaja, biskupa
+                        chełmińskiego, Mikołaja z Bażyn, wojewody malborskiego.</p>
+                    <p>Wielebni w Chrystusie ojcowie i wielmożny panie! Takim było nasze
+                        postanowienie i pragnienie, abyśmy, gdy tylko zostaliśmy powiadomieni o
+                        najcięższej chorobie, a niedługo potem o bolesnym zdarzeniu i śmierci
+                        najjaśniejszego pana naszego, bez zwłoki tam przybyli, zarówno w celu
+                        oddania honorów pogrzebowi tegoż pana naszego, jak i w celu naradzenia się z
+                        wami w sprawach, które dotyczyłyby i były niezbędne dla spokoju i
+                        bezpieczeństwa Królestwa oraz waszego. </p>
+                </div>
+            </div>
+
+            <div n="14" type="document">
+                <head>Nr. 14.</head>
+                <ab type="date-place">B. m. d. r. <supplied reason="reconstruction">( <placeName
+                            key="Gniezno" ref="http://www.wikidata.org/entity/Q51432">Gniezno</placeName>
+                    <date when="1501-06-19">19
+                            czerwca 1505</date>) </supplied>. </ab>
+                <ab type="summary">
+                    <persName key="Zygfryd Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q262986">Fryderyk</persName> do dostojników ruskich. </ab>
+                <ab type="source">Dwie kopje z Tomic. 22. P. 127 i 2. R. 115—116 </ab>
+                <div type="original" xml:lang="la">
+                    <p>
+                        <persName key="Zygfryd Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q673151">Zygfrydus</persName>...
+                        cardinalis <persName key="Łukasz Watzenrode"
+                            ref="http://www.wikidata.org/entity/Q1347063">Lucae</persName> Varmiensi
+                        episcopo, <persName key="Mikołaj Chrapicki"
+                            ref="http://www.wikidata.org/entity/Q11780713">Nicolao</persName>
+                        Culmensi episcopo, <persName key="Mikołaj Bażyński"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q148918">Nicolao de Baisen</persName>
+                        palatino Marienburgensi.</p>
+                    <p>Reverendi in Christo patres, magnificeque domine! Ea erat sententia et
+                        desiderium nostrum, ut quam primum certiores redditi simus de gravissima
+                        aegritudine ac deinde non multo post de acerbo casu et obitu ser<hi
+                            rend="superscript">mi</hi> domini nostri, istuc sine mora veniremus, cum
+                        cohonestandi funeris eiusdem domini nostri, tum etiam vobiscum consultandi
+                        causa de his, quae pertinerent et necessaria essent ad quietem et
+                        securitatem Regni et vestram.</p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Zygfryd... kardynał, do Łukasza, biskupa warmińskiego, Mikołaja, biskupa
+                        chełmińskiego, Mikołaja z Bażyn, wojewody malborskiego.</p>
+                    <p>Wielebni w Chrystusie ojcowie i wielmożny panie! Takim było nasze
+                        postanowienie i pragnienie, abyśmy, gdy tylko zostaliśmy powiadomieni o
+                        najcięższej chorobie, a niedługo potem o bolesnym zdarzeniu i śmierci
+                        najjaśniejszego pana naszego, bez zwłoki tam przybyli, zarówno w celu
+                        oddania honorów pogrzebowi tegoż pana naszego, jak i w celu naradzenia się z
+                        wami w sprawach, które dotyczyłyby i były niezbędne dla spokoju i
+                        bezpieczeństwa Królestwa oraz waszego. </p>
+                </div>
+            </div>
+
+            <div n="15" type="document">
+                <head>Nr. 15.</head>
+                <ab type="date-place">B. m. d. r. <supplied reason="reconstruction">( <placeName
+                            key="Gniezno" ref="http://www.wikidata.org/entity/Q51432">Gniezno</placeName>
+                    <date when="1501-06-19">19
+                            czerwca 1505</date>) </supplied>. </ab>
+                <ab type="summary">
+                    <persName key="Zygfryd Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q262986">Fryderyk</persName> do dostojników ruskich. </ab>
+                <ab type="source">Dwie kopje z Tomic. 22. P. 127 i 2. R. 115—116 </ab>
+                <div type="original" xml:lang="la">
+                    <p>
+                        <persName key="Zygfryd Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q673151">Zygfrydus</persName>...
+                        cardinalis <persName key="Łukasz Watzenrode"
+                            ref="http://www.wikidata.org/entity/Q1347063">Lucae</persName> Varmiensi
+                        episcopo, <persName key="Mikołaj Chrapicki"
+                            ref="http://www.wikidata.org/entity/Q11780713">Nicolao</persName>
+                        Culmensi episcopo, <persName key="Mikołaj Bażyński"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q148918">Nicolao de Baisen</persName>
+                        palatino Marienburgensi.</p>
+                    <p>Reverendi in Christo patres, magnificeque domine! Ea erat sententia et
+                        desiderium nostrum, ut quam primum certiores redditi simus de gravissima
+                        aegritudine ac deinde non multo post de acerbo casu et obitu ser<hi
+                            rend="superscript">mi</hi> domini nostri, istuc sine mora veniremus, cum
+                        cohonestandi funeris eiusdem domini nostri, tum etiam vobiscum consultandi
+                        causa de his, quae pertinerent et necessaria essent ad quietem et
+                        securitatem Regni et vestram.</p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Zygfryd... kardynał, do Łukasza, biskupa warmińskiego, Mikołaja, biskupa
+                        chełmińskiego, Mikołaja z Bażyn, wojewody malborskiego.</p>
+                    <p>Wielebni w Chrystusie ojcowie i wielmożny panie! Takim było nasze
+                        postanowienie i pragnienie, abyśmy, gdy tylko zostaliśmy powiadomieni o
+                        najcięższej chorobie, a niedługo potem o bolesnym zdarzeniu i śmierci
+                        najjaśniejszego pana naszego, bez zwłoki tam przybyli, zarówno w celu
+                        oddania honorów pogrzebowi tegoż pana naszego, jak i w celu naradzenia się z
+                        wami w sprawach, które dotyczyłyby i były niezbędne dla spokoju i
+                        bezpieczeństwa Królestwa oraz waszego. </p>
+                </div>
+            </div>
+
+
+            <div n="16" type="document">
+                <head>Nr. 16.</head>
+                <ab type="date-place">B. m. d. r. <supplied reason="reconstruction">( <placeName
+                            key="Gniezno" ref="http://www.wikidata.org/entity/Q51432">Gniezno</placeName>
+                    <date when="1501-06-19">19
+                            czerwca 1505</date>) </supplied>. </ab>
+                <ab type="summary">
+                    <persName key="Zygfryd Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q262986">Fryderyk</persName> do dostojników ruskich. </ab>
+                <ab type="source">Dwie kopje z Tomic. 22. P. 127 i 2. R. 115—116 </ab>
+                <div type="original" xml:lang="la">
+                    <p>
+                        <persName key="Zygfryd Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q673151">Zygfrydus</persName>...
+                        cardinalis <persName key="Łukasz Watzenrode"
+                            ref="http://www.wikidata.org/entity/Q1347063">Lucae</persName> Varmiensi
+                        episcopo, <persName key="Mikołaj Chrapicki"
+                            ref="http://www.wikidata.org/entity/Q11780713">Nicolao</persName>
+                        Culmensi episcopo, <persName key="Mikołaj Bażyński"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q148918">Nicolao de Baisen</persName>
+                        palatino Marienburgensi.</p>
+                    <p>Reverendi in Christo patres, magnificeque domine! Ea erat sententia et
+                        desiderium nostrum, ut quam primum certiores redditi simus de gravissima
+                        aegritudine ac deinde non multo post de acerbo casu et obitu ser<hi
+                            rend="superscript">mi</hi> domini nostri, istuc sine mora veniremus, cum
+                        cohonestandi funeris eiusdem domini nostri, tum etiam vobiscum consultandi
+                        causa de his, quae pertinerent et necessaria essent ad quietem et
+                        securitatem Regni et vestram.</p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Zygfryd... kardynał, do Łukasza, biskupa warmińskiego, Mikołaja, biskupa
+                        chełmińskiego, Mikołaja z Bażyn, wojewody malborskiego.</p>
+                    <p>Wielebni w Chrystusie ojcowie i wielmożny panie! Takim było nasze
+                        postanowienie i pragnienie, abyśmy, gdy tylko zostaliśmy powiadomieni o
+                        najcięższej chorobie, a niedługo potem o bolesnym zdarzeniu i śmierci
+                        najjaśniejszego pana naszego, bez zwłoki tam przybyli, zarówno w celu
+                        oddania honorów pogrzebowi tegoż pana naszego, jak i w celu naradzenia się z
+                        wami w sprawach, które dotyczyłyby i były niezbędne dla spokoju i
+                        bezpieczeństwa Królestwa oraz waszego. </p>
+                </div>
+            </div>
+
+            <div n="17" type="document">
+                <head>Nr. 17.</head>
+                <ab type="date-place">B. m. d. r. <supplied reason="reconstruction">( <placeName
+                            key="Gniezno" ref="http://www.wikidata.org/entity/Q51432">Gniezno</placeName>
+                    <date when="1501-06-19">19
+                            czerwca 1505</date>) </supplied>. </ab>
+                <ab type="summary">
+                    <persName key="Zygfryd Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q262986">Fryderyk</persName> do dostojników ruskich. </ab>
+                <ab type="source">Dwie kopje z Tomic. 22. P. 127 i 2. R. 115—116 </ab>
+                <div type="original" xml:lang="la">
+                    <p>
+                        <persName key="Zygfryd Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q673151">Zygfrydus</persName>...
+                        cardinalis <persName key="Łukasz Watzenrode"
+                            ref="http://www.wikidata.org/entity/Q1347063">Lucae</persName> Varmiensi
+                        episcopo, <persName key="Mikołaj Chrapicki"
+                            ref="http://www.wikidata.org/entity/Q11780713">Nicolao</persName>
+                        Culmensi episcopo, <persName key="Mikołaj Bażyński"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q148918">Nicolao de Baisen</persName>
+                        palatino Marienburgensi.</p>
+                    <p>Reverendi in Christo patres, magnificeque domine! Ea erat sententia et
+                        desiderium nostrum, ut quam primum certiores redditi simus de gravissima
+                        aegritudine ac deinde non multo post de acerbo casu et obitu ser<hi
+                            rend="superscript">mi</hi> domini nostri, istuc sine mora veniremus, cum
+                        cohonestandi funeris eiusdem domini nostri, tum etiam vobiscum consultandi
+                        causa de his, quae pertinerent et necessaria essent ad quietem et
+                        securitatem Regni et vestram.</p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Zygfryd... kardynał, do Łukasza, biskupa warmińskiego, Mikołaja, biskupa
+                        chełmińskiego, Mikołaja z Bażyn, wojewody malborskiego.</p>
+                    <p>Wielebni w Chrystusie ojcowie i wielmożny panie! Takim było nasze
+                        postanowienie i pragnienie, abyśmy, gdy tylko zostaliśmy powiadomieni o
+                        najcięższej chorobie, a niedługo potem o bolesnym zdarzeniu i śmierci
+                        najjaśniejszego pana naszego, bez zwłoki tam przybyli, zarówno w celu
+                        oddania honorów pogrzebowi tegoż pana naszego, jak i w celu naradzenia się z
+                        wami w sprawach, które dotyczyłyby i były niezbędne dla spokoju i
+                        bezpieczeństwa Królestwa oraz waszego. </p>
+                </div>
+            </div>
+
+            <div n="18" type="document">
+                <head>Nr. 18.</head>
+                <ab type="date-place">B. m. d. r. <supplied reason="reconstruction">( <placeName
+                            key="Gniezno" ref="http://www.wikidata.org/entity/Q51432">Gniezno</placeName>
+                    <date when="1501-06-19">19
+                            czerwca 1505</date>) </supplied>. </ab>
+                <ab type="summary">
+                    <persName key="Zygfryd Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q262986">Fryderyk</persName> do dostojników ruskich. </ab>
+                <ab type="source">Dwie kopje z Tomic. 22. P. 127 i 2. R. 115—116 </ab>
+                <div type="original" xml:lang="la">
+                    <p>
+                        <persName key="Zygfryd Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q673151">Zygfrydus</persName>...
+                        cardinalis <persName key="Łukasz Watzenrode"
+                            ref="http://www.wikidata.org/entity/Q1347063">Lucae</persName> Varmiensi
+                        episcopo, <persName key="Mikołaj Chrapicki"
+                            ref="http://www.wikidata.org/entity/Q11780713">Nicolao</persName>
+                        Culmensi episcopo, <persName key="Mikołaj Bażyński"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q148918">Nicolao de Baisen</persName>
+                        palatino Marienburgensi.</p>
+                    <p>Reverendi in Christo patres, magnificeque domine! Ea erat sententia et
+                        desiderium nostrum, ut quam primum certiores redditi simus de gravissima
+                        aegritudine ac deinde non multo post de acerbo casu et obitu ser<hi
+                            rend="superscript">mi</hi> domini nostri, istuc sine mora veniremus, cum
+                        cohonestandi funeris eiusdem domini nostri, tum etiam vobiscum consultandi
+                        causa de his, quae pertinerent et necessaria essent ad quietem et
+                        securitatem Regni et vestram.</p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Zygfryd... kardynał, do Łukasza, biskupa warmińskiego, Mikołaja, biskupa
+                        chełmińskiego, Mikołaja z Bażyn, wojewody malborskiego.</p>
+                    <p>Wielebni w Chrystusie ojcowie i wielmożny panie! Takim było nasze
+                        postanowienie i pragnienie, abyśmy, gdy tylko zostaliśmy powiadomieni o
+                        najcięższej chorobie, a niedługo potem o bolesnym zdarzeniu i śmierci
+                        najjaśniejszego pana naszego, bez zwłoki tam przybyli, zarówno w celu
+                        oddania honorów pogrzebowi tegoż pana naszego, jak i w celu naradzenia się z
+                        wami w sprawach, które dotyczyłyby i były niezbędne dla spokoju i
+                        bezpieczeństwa Królestwa oraz waszego. </p>
+                </div>
+            </div>
+
+
+            <div n="19" type="document">
+                <head>Nr. 19.</head>
+                <ab type="date-place">B. m. d. r. <supplied reason="reconstruction">( <placeName
+                            key="Gniezno" ref="http://www.wikidata.org/entity/Q51432">Gniezno</placeName>
+                    <date when="1501-06-19">19
+                            czerwca 1505</date>) </supplied>. </ab>
+                <ab type="summary">
+                    <persName key="Zygfryd Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q262986">Fryderyk</persName> do dostojników ruskich. </ab>
+                <ab type="source">Dwie kopje z Tomic. 22. P. 127 i 2. R. 115—116 </ab>
+                <div type="original" xml:lang="la">
+                    <p>
+                        <persName key="Zygfryd Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q673151">Zygfrydus</persName>...
+                        cardinalis <persName key="Łukasz Watzenrode"
+                            ref="http://www.wikidata.org/entity/Q1347063">Lucae</persName> Varmiensi
+                        episcopo, <persName key="Mikołaj Chrapicki"
+                            ref="http://www.wikidata.org/entity/Q11780713">Nicolao</persName>
+                        Culmensi episcopo, <persName key="Mikołaj Bażyński"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q148918">Nicolao de Baisen</persName>
+                        palatino Marienburgensi.</p>
+                    <p>Reverendi in Christo patres, magnificeque domine! Ea erat sententia et
+                        desiderium nostrum, ut quam primum certiores redditi simus de gravissima
+                        aegritudine ac deinde non multo post de acerbo casu et obitu ser<hi
+                            rend="superscript">mi</hi> domini nostri, istuc sine mora veniremus, cum
+                        cohonestandi funeris eiusdem domini nostri, tum etiam vobiscum consultandi
+                        causa de his, quae pertinerent et necessaria essent ad quietem et
+                        securitatem Regni et vestram.</p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Zygfryd... kardynał, do Łukasza, biskupa warmińskiego, Mikołaja, biskupa
+                        chełmińskiego, Mikołaja z Bażyn, wojewody malborskiego.</p>
+                    <p>Wielebni w Chrystusie ojcowie i wielmożny panie! Takim było nasze
+                        postanowienie i pragnienie, abyśmy, gdy tylko zostaliśmy powiadomieni o
+                        najcięższej chorobie, a niedługo potem o bolesnym zdarzeniu i śmierci
+                        najjaśniejszego pana naszego, bez zwłoki tam przybyli, zarówno w celu
+                        oddania honorów pogrzebowi tegoż pana naszego, jak i w celu naradzenia się z
+                        wami w sprawach, które dotyczyłyby i były niezbędne dla spokoju i
+                        bezpieczeństwa Królestwa oraz waszego. </p>
+                </div>
+            </div>
+
+            <div n="20" type="document">
+                <head>Nr. 20.</head>
+                <ab type="date-place">B. m. d. r. <supplied reason="reconstruction">( <placeName
+                            key="Gniezno" ref="http://www.wikidata.org/entity/Q51432">Gniezno</placeName>
+                    <date when="1501-06-19">19
+                            czerwca 1505</date>) </supplied>. </ab>
+                <ab type="summary">
+                    <persName key="Zygfryd Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q262986">Fryderyk</persName> do dostojników ruskich. </ab>
+                <ab type="source">Dwie kopje z Tomic. 22. P. 127 i 2. R. 115—116 </ab>
+                <div type="original" xml:lang="la">
+                    <p>
+                        <persName key="Zygfryd Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q673151">Zygfrydus</persName>...
+                        cardinalis <persName key="Łukasz Watzenrode"
+                            ref="http://www.wikidata.org/entity/Q1347063">Lucae</persName> Varmiensi
+                        episcopo, <persName key="Mikołaj Chrapicki"
+                            ref="http://www.wikidata.org/entity/Q11780713">Nicolao</persName>
+                        Culmensi episcopo, <persName key="Mikołaj Bażyński"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q148918">Nicolao de Baisen</persName>
+                        palatino Marienburgensi.</p>
+                    <p>Reverendi in Christo patres, magnificeque domine! Ea erat sententia et
+                        desiderium nostrum, ut quam primum certiores redditi simus de gravissima
+                        aegritudine ac deinde non multo post de acerbo casu et obitu ser<hi
+                            rend="superscript">mi</hi> domini nostri, istuc sine mora veniremus, cum
+                        cohonestandi funeris eiusdem domini nostri, tum etiam vobiscum consultandi
+                        causa de his, quae pertinerent et necessaria essent ad quietem et
+                        securitatem Regni et vestram.</p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Zygfryd... kardynał, do Łukasza, biskupa warmińskiego, Mikołaja, biskupa
+                        chełmińskiego, Mikołaja z Bażyn, wojewody malborskiego.</p>
+                    <p>Wielebni w Chrystusie ojcowie i wielmożny panie! Takim było nasze
+                        postanowienie i pragnienie, abyśmy, gdy tylko zostaliśmy powiadomieni o
+                        najcięższej chorobie, a niedługo potem o bolesnym zdarzeniu i śmierci
+                        najjaśniejszego pana naszego, bez zwłoki tam przybyli, zarówno w celu
+                        oddania honorów pogrzebowi tegoż pana naszego, jak i w celu naradzenia się z
+                        wami w sprawach, które dotyczyłyby i były niezbędne dla spokoju i
+                        bezpieczeństwa Królestwa oraz waszego. </p>
+                </div>
+            </div>
+
+            <div n="21" type="document">
+                <head>Nr. 21.</head>
+                <ab type="date-place">B. m. d. r. <supplied reason="reconstruction">( <placeName
+                            key="Gniezno" ref="http://www.wikidata.org/entity/Q51432">Gniezno</placeName>
+                    <date when="1501-06-19">19
+                            czerwca 1505</date>) </supplied>. </ab>
+                <ab type="summary">
+                    <persName key="Zygfryd Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q262986">Fryderyk</persName> do dostojników ruskich. </ab>
+                <ab type="source">Dwie kopje z Tomic. 22. P. 127 i 2. R. 115—116 </ab>
+                <div type="original" xml:lang="la">
+                    <p>
+                        <persName key="Zygfryd Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q673151">Zygfrydus</persName>...
+                        cardinalis <persName key="Łukasz Watzenrode"
+                            ref="http://www.wikidata.org/entity/Q1347063">Lucae</persName> Varmiensi
+                        episcopo, <persName key="Mikołaj Chrapicki"
+                            ref="http://www.wikidata.org/entity/Q11780713">Nicolao</persName>
+                        Culmensi episcopo, <persName key="Mikołaj Bażyński"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q148918">Nicolao de Baisen</persName>
+                        palatino Marienburgensi.</p>
+                    <p>Reverendi in Christo patres, magnificeque domine! Ea erat sententia et
+                        desiderium nostrum, ut quam primum certiores redditi simus de gravissima
+                        aegritudine ac deinde non multo post de acerbo casu et obitu ser<hi
+                            rend="superscript">mi</hi> domini nostri, istuc sine mora veniremus, cum
+                        cohonestandi funeris eiusdem domini nostri, tum etiam vobiscum consultandi
+                        causa de his, quae pertinerent et necessaria essent ad quietem et
+                        securitatem Regni et vestram.</p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Zygfryd... kardynał, do Łukasza, biskupa warmińskiego, Mikołaja, biskupa
+                        chełmińskiego, Mikołaja z Bażyn, wojewody malborskiego.</p>
+                    <p>Wielebni w Chrystusie ojcowie i wielmożny panie! Takim było nasze
+                        postanowienie i pragnienie, abyśmy, gdy tylko zostaliśmy powiadomieni o
+                        najcięższej chorobie, a niedługo potem o bolesnym zdarzeniu i śmierci
+                        najjaśniejszego pana naszego, bez zwłoki tam przybyli, zarówno w celu
+                        oddania honorów pogrzebowi tegoż pana naszego, jak i w celu naradzenia się z
+                        wami w sprawach, które dotyczyłyby i były niezbędne dla spokoju i
+                        bezpieczeństwa Królestwa oraz waszego. </p>
+                </div>
+            </div>
+
+
+            <div n="22" type="document">
+                <head>Nr. 22.</head>
+                <ab type="date-place">B. m. d. r. <supplied reason="reconstruction">( <placeName
+                            key="Gniezno" ref="http://www.wikidata.org/entity/Q51432">Gniezno</placeName>
+                    <date when="1501-06-19">19
+                            czerwca 1505</date>) </supplied>. </ab>
+                <ab type="summary">
+                    <persName key="Zygfryd Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q262986">Fryderyk</persName> do dostojników ruskich. </ab>
+                <ab type="source">Dwie kopje z Tomic. 22. P. 127 i 2. R. 115—116 </ab>
+                <div type="original" xml:lang="la">
+                    <p>
+                        <persName key="Zygfryd Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q673151">Zygfrydus</persName>...
+                        cardinalis <persName key="Łukasz Watzenrode"
+                            ref="http://www.wikidata.org/entity/Q1347063">Lucae</persName> Varmiensi
+                        episcopo, <persName key="Mikołaj Chrapicki"
+                            ref="http://www.wikidata.org/entity/Q11780713">Nicolao</persName>
+                        Culmensi episcopo, <persName key="Mikołaj Bażyński"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q148918">Nicolao de Baisen</persName>
+                        palatino Marienburgensi.</p>
+                    <p>Reverendi in Christo patres, magnificeque domine! Ea erat sententia et
+                        desiderium nostrum, ut quam primum certiores redditi simus de gravissima
+                        aegritudine ac deinde non multo post de acerbo casu et obitu ser<hi
+                            rend="superscript">mi</hi> domini nostri, istuc sine mora veniremus, cum
+                        cohonestandi funeris eiusdem domini nostri, tum etiam vobiscum consultandi
+                        causa de his, quae pertinerent et necessaria essent ad quietem et
+                        securitatem Regni et vestram.</p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Zygfryd... kardynał, do Łukasza, biskupa warmińskiego, Mikołaja, biskupa
+                        chełmińskiego, Mikołaja z Bażyn, wojewody malborskiego.</p>
+                    <p>Wielebni w Chrystusie ojcowie i wielmożny panie! Takim było nasze
+                        postanowienie i pragnienie, abyśmy, gdy tylko zostaliśmy powiadomieni o
+                        najcięższej chorobie, a niedługo potem o bolesnym zdarzeniu i śmierci
+                        najjaśniejszego pana naszego, bez zwłoki tam przybyli, zarówno w celu
+                        oddania honorów pogrzebowi tegoż pana naszego, jak i w celu naradzenia się z
+                        wami w sprawach, które dotyczyłyby i były niezbędne dla spokoju i
+                        bezpieczeństwa Królestwa oraz waszego. </p>
+                </div>
+            </div>
+
+
+            <div n="23" type="document">
+                <head>Nr. 23.</head>
+                <ab type="date-place">B. m. d. r. <supplied reason="reconstruction">( <placeName
+                            key="Gniezno" ref="http://www.wikidata.org/entity/Q51432">Gniezno</placeName>
+                    <date when="1501-06-19">19
+                            czerwca 1505</date>) </supplied>. </ab>
+                <ab type="summary">
+                    <persName key="Zygfryd Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q262986">Fryderyk</persName> do dostojników ruskich. </ab>
+                <ab type="source">Dwie kopje z Tomic. 22. P. 127 i 2. R. 115—116 </ab>
+                <div type="original" xml:lang="la">
+                    <p>
+                        <persName key="Zygfryd Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q673151">Zygfrydus</persName>...
+                        cardinalis <persName key="Łukasz Watzenrode"
+                            ref="http://www.wikidata.org/entity/Q1347063">Lucae</persName> Varmiensi
+                        episcopo, <persName key="Mikołaj Chrapicki"
+                            ref="http://www.wikidata.org/entity/Q11780713">Nicolao</persName>
+                        Culmensi episcopo, <persName key="Mikołaj Bażyński"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q148918">Nicolao de Baisen</persName>
+                        palatino Marienburgensi.</p>
+                    <p>Reverendi in Christo patres, magnificeque domine! Ea erat sententia et
+                        desiderium nostrum, ut quam primum certiores redditi simus de gravissima
+                        aegritudine ac deinde non multo post de acerbo casu et obitu ser<hi
+                            rend="superscript">mi</hi> domini nostri, istuc sine mora veniremus, cum
+                        cohonestandi funeris eiusdem domini nostri, tum etiam vobiscum consultandi
+                        causa de his, quae pertinerent et necessaria essent ad quietem et
+                        securitatem Regni et vestram.</p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Zygfryd... kardynał, do Łukasza, biskupa warmińskiego, Mikołaja, biskupa
+                        chełmińskiego, Mikołaja z Bażyn, wojewody malborskiego.</p>
+                    <p>Wielebni w Chrystusie ojcowie i wielmożny panie! Takim było nasze
+                        postanowienie i pragnienie, abyśmy, gdy tylko zostaliśmy powiadomieni o
+                        najcięższej chorobie, a niedługo potem o bolesnym zdarzeniu i śmierci
+                        najjaśniejszego pana naszego, bez zwłoki tam przybyli, zarówno w celu
+                        oddania honorów pogrzebowi tegoż pana naszego, jak i w celu naradzenia się z
+                        wami w sprawach, które dotyczyłyby i były niezbędne dla spokoju i
+                        bezpieczeństwa Królestwa oraz waszego. </p>
+                </div>
+            </div>
+
+
+            <div n="24" type="document">
+                <head>Nr. 24.</head>
+                <ab type="date-place">B. m. d. r. <supplied reason="reconstruction">( <placeName
+                            key="Gniezno" ref="http://www.wikidata.org/entity/Q51432">Gniezno</placeName>
+                    <date when="1501-06-19">19
+                            czerwca 1505</date>) </supplied>. </ab>
+                <ab type="summary">
+                    <persName key="Zygfryd Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q262986">Fryderyk</persName> do dostojników ruskich. </ab>
+                <ab type="source">Dwie kopje z Tomic. 22. P. 127 i 2. R. 115—116 </ab>
+                <div type="original" xml:lang="la">
+                    <p>
+                        <persName key="Zygfryd Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q673151">Zygfrydus</persName>...
+                        cardinalis <persName key="Łukasz Watzenrode"
+                            ref="http://www.wikidata.org/entity/Q1347063">Lucae</persName> Varmiensi
+                        episcopo, <persName key="Mikołaj Chrapicki"
+                            ref="http://www.wikidata.org/entity/Q11780713">Nicolao</persName>
+                        Culmensi episcopo, <persName key="Mikołaj Bażyński"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q148918">Nicolao de Baisen</persName>
+                        palatino Marienburgensi.</p>
+                    <p>Reverendi in Christo patres, magnificeque domine! Ea erat sententia et
+                        desiderium nostrum, ut quam primum certiores redditi simus de gravissima
+                        aegritudine ac deinde non multo post de acerbo casu et obitu ser<hi
+                            rend="superscript">mi</hi> domini nostri, istuc sine mora veniremus, cum
+                        cohonestandi funeris eiusdem domini nostri, tum etiam vobiscum consultandi
+                        causa de his, quae pertinerent et necessaria essent ad quietem et
+                        securitatem Regni et vestram.</p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Zygfryd... kardynał, do Łukasza, biskupa warmińskiego, Mikołaja, biskupa
+                        chełmińskiego, Mikołaja z Bażyn, wojewody malborskiego.</p>
+                    <p>Wielebni w Chrystusie ojcowie i wielmożny panie! Takim było nasze
+                        postanowienie i pragnienie, abyśmy, gdy tylko zostaliśmy powiadomieni o
+                        najcięższej chorobie, a niedługo potem o bolesnym zdarzeniu i śmierci
+                        najjaśniejszego pana naszego, bez zwłoki tam przybyli, zarówno w celu
+                        oddania honorów pogrzebowi tegoż pana naszego, jak i w celu naradzenia się z
+                        wami w sprawach, które dotyczyłyby i były niezbędne dla spokoju i
+                        bezpieczeństwa Królestwa oraz waszego. </p>
+                </div>
+            </div>
+
+            <div n="25" type="document">
+                <head>Nr. 25.</head>
+                <ab type="date-place">B. m. d. r. <supplied reason="reconstruction">( <placeName
+                            key="Gniezno" ref="http://www.wikidata.org/entity/Q51432">Gniezno</placeName>
+                    <date when="1501-06-19">19
+                            czerwca 1505</date>) </supplied>. </ab>
+                <ab type="summary">
+                    <persName key="Zygfryd Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q262986">Fryderyk</persName> do dostojników ruskich. </ab>
+                <ab type="source">Dwie kopje z Tomic. 22. P. 127 i 2. R. 115—116 </ab>
+                <div type="original" xml:lang="la">
+                    <p>
+                        <persName key="Zygfryd Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q673151">Zygfrydus</persName>...
+                        cardinalis <persName key="Łukasz Watzenrode"
+                            ref="http://www.wikidata.org/entity/Q1347063">Lucae</persName> Varmiensi
+                        episcopo, <persName key="Mikołaj Chrapicki"
+                            ref="http://www.wikidata.org/entity/Q11780713">Nicolao</persName>
+                        Culmensi episcopo, <persName key="Mikołaj Bażyński"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q148918">Nicolao de Baisen</persName>
+                        palatino Marienburgensi.</p>
+                    <p>Reverendi in Christo patres, magnificeque domine! Ea erat sententia et
+                        desiderium nostrum, ut quam primum certiores redditi simus de gravissima
+                        aegritudine ac deinde non multo post de acerbo casu et obitu ser<hi
+                            rend="superscript">mi</hi> domini nostri, istuc sine mora veniremus, cum
+                        cohonestandi funeris eiusdem domini nostri, tum etiam vobiscum consultandi
+                        causa de his, quae pertinerent et necessaria essent ad quietem et
+                        securitatem Regni et vestram.</p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Zygfryd... kardynał, do Łukasza, biskupa warmińskiego, Mikołaja, biskupa
+                        chełmińskiego, Mikołaja z Bażyn, wojewody malborskiego.</p>
+                    <p>Wielebni w Chrystusie ojcowie i wielmożny panie! Takim było nasze
+                        postanowienie i pragnienie, abyśmy, gdy tylko zostaliśmy powiadomieni o
+                        najcięższej chorobie, a niedługo potem o bolesnym zdarzeniu i śmierci
+                        najjaśniejszego pana naszego, bez zwłoki tam przybyli, zarówno w celu
+                        oddania honorów pogrzebowi tegoż pana naszego, jak i w celu naradzenia się z
+                        wami w sprawach, które dotyczyłyby i były niezbędne dla spokoju i
+                        bezpieczeństwa Królestwa oraz waszego. </p>
+                </div>
+            </div>
+
+            <div n="26" type="document">
+                <head>Nr. 26.</head>
+                <ab type="date-place">B. m. d. r. <supplied reason="reconstruction">( <placeName
+                            key="Gniezno" ref="http://www.wikidata.org/entity/Q51432">Gniezno</placeName>
+                    <date when="1501-06-19">19
+                            czerwca 1505</date>) </supplied>. </ab>
+                <ab type="summary">
+                    <persName key="Zygfryd Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q262986">Fryderyk</persName> do dostojników ruskich. </ab>
+                <ab type="source">Dwie kopje z Tomic. 22. P. 127 i 2. R. 115—116 </ab>
+                <div type="original" xml:lang="la">
+                    <p>
+                        <persName key="Zygfryd Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q673151">Zygfrydus</persName>...
+                        cardinalis <persName key="Łukasz Watzenrode"
+                            ref="http://www.wikidata.org/entity/Q1347063">Lucae</persName> Varmiensi
+                        episcopo, <persName key="Mikołaj Chrapicki"
+                            ref="http://www.wikidata.org/entity/Q11780713">Nicolao</persName>
+                        Culmensi episcopo, <persName key="Mikołaj Bażyński"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q148918">Nicolao de Baisen</persName>
+                        palatino Marienburgensi.</p>
+                    <p>Reverendi in Christo patres, magnificeque domine! Ea erat sententia et
+                        desiderium nostrum, ut quam primum certiores redditi simus de gravissima
+                        aegritudine ac deinde non multo post de acerbo casu et obitu ser<hi
+                            rend="superscript">mi</hi> domini nostri, istuc sine mora veniremus, cum
+                        cohonestandi funeris eiusdem domini nostri, tum etiam vobiscum consultandi
+                        causa de his, quae pertinerent et necessaria essent ad quietem et
+                        securitatem Regni et vestram.</p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Zygfryd... kardynał, do Łukasza, biskupa warmińskiego, Mikołaja, biskupa
+                        chełmińskiego, Mikołaja z Bażyn, wojewody malborskiego.</p>
+                    <p>Wielebni w Chrystusie ojcowie i wielmożny panie! Takim było nasze
+                        postanowienie i pragnienie, abyśmy, gdy tylko zostaliśmy powiadomieni o
+                        najcięższej chorobie, a niedługo potem o bolesnym zdarzeniu i śmierci
+                        najjaśniejszego pana naszego, bez zwłoki tam przybyli, zarówno w celu
+                        oddania honorów pogrzebowi tegoż pana naszego, jak i w celu naradzenia się z
+                        wami w sprawach, które dotyczyłyby i były niezbędne dla spokoju i
+                        bezpieczeństwa Królestwa oraz waszego. </p>
+                </div>
+            </div>
+
+            <div n="27" type="document">
+                <head>Nr. 27.</head>
+                <ab type="date-place">B. m. d. r. <supplied reason="reconstruction">( <placeName
+                            key="Gniezno" ref="http://www.wikidata.org/entity/Q51432">Gniezno</placeName>
+                    <date when="1501-06-19">19
+                            czerwca 1505</date>) </supplied>. </ab>
+                <ab type="summary">
+                    <persName key="Zygfryd Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q262986">Fryderyk</persName> do dostojników ruskich. </ab>
+                <ab type="source">Dwie kopje z Tomic. 22. P. 127 i 2. R. 115—116 </ab>
+                <div type="original" xml:lang="la">
+                    <p>
+                        <persName key="Zygfryd Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q673151">Zygfrydus</persName>...
+                        cardinalis <persName key="Łukasz Watzenrode"
+                            ref="http://www.wikidata.org/entity/Q1347063">Lucae</persName> Varmiensi
+                        episcopo, <persName key="Mikołaj Chrapicki"
+                            ref="http://www.wikidata.org/entity/Q11780713">Nicolao</persName>
+                        Culmensi episcopo, <persName key="Mikołaj Bażyński"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q148918">Nicolao de Baisen</persName>
+                        palatino Marienburgensi.</p>
+                    <p>Reverendi in Christo patres, magnificeque domine! Ea erat sententia et
+                        desiderium nostrum, ut quam primum certiores redditi simus de gravissima
+                        aegritudine ac deinde non multo post de acerbo casu et obitu ser<hi
+                            rend="superscript">mi</hi> domini nostri, istuc sine mora veniremus, cum
+                        cohonestandi funeris eiusdem domini nostri, tum etiam vobiscum consultandi
+                        causa de his, quae pertinerent et necessaria essent ad quietem et
+                        securitatem Regni et vestram.</p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Zygfryd... kardynał, do Łukasza, biskupa warmińskiego, Mikołaja, biskupa
+                        chełmińskiego, Mikołaja z Bażyn, wojewody malborskiego.</p>
+                    <p>Wielebni w Chrystusie ojcowie i wielmożny panie! Takim było nasze
+                        postanowienie i pragnienie, abyśmy, gdy tylko zostaliśmy powiadomieni o
+                        najcięższej chorobie, a niedługo potem o bolesnym zdarzeniu i śmierci
+                        najjaśniejszego pana naszego, bez zwłoki tam przybyli, zarówno w celu
+                        oddania honorów pogrzebowi tegoż pana naszego, jak i w celu naradzenia się z
+                        wami w sprawach, które dotyczyłyby i były niezbędne dla spokoju i
+                        bezpieczeństwa Królestwa oraz waszego. </p>
+                </div>
+            </div>
+
+            <div n="28" type="document">
+                <head>Nr. 28.</head>
+                <ab type="date-place">B. m. d. r. <supplied reason="reconstruction">( <placeName
+                            key="Gniezno" ref="http://www.wikidata.org/entity/Q51432">Gniezno</placeName>
+                    <date when="1501-06-19">19
+                            czerwca 1505</date>) </supplied>. </ab>
+                <ab type="summary">
+                    <persName key="Zygfryd Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q262986">Fryderyk</persName> do dostojników ruskich. </ab>
+                <ab type="source">Dwie kopje z Tomic. 22. P. 127 i 2. R. 115—116 </ab>
+                <div type="original" xml:lang="la">
+                    <p>
+                        <persName key="Zygfryd Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q673151">Zygfrydus</persName>...
+                        cardinalis <persName key="Łukasz Watzenrode"
+                            ref="http://www.wikidata.org/entity/Q1347063">Lucae</persName> Varmiensi
+                        episcopo, <persName key="Mikołaj Chrapicki"
+                            ref="http://www.wikidata.org/entity/Q11780713">Nicolao</persName>
+                        Culmensi episcopo, <persName key="Mikołaj Bażyński"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q148918">Nicolao de Baisen</persName>
+                        palatino Marienburgensi.</p>
+                    <p>Reverendi in Christo patres, magnificeque domine! Ea erat sententia et
+                        desiderium nostrum, ut quam primum certiores redditi simus de gravissima
+                        aegritudine ac deinde non multo post de acerbo casu et obitu ser<hi
+                            rend="superscript">mi</hi> domini nostri, istuc sine mora veniremus, cum
+                        cohonestandi funeris eiusdem domini nostri, tum etiam vobiscum consultandi
+                        causa de his, quae pertinerent et necessaria essent ad quietem et
+                        securitatem Regni et vestram.</p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Zygfryd... kardynał, do Łukasza, biskupa warmińskiego, Mikołaja, biskupa
+                        chełmińskiego, Mikołaja z Bażyn, wojewody malborskiego.</p>
+                    <p>Wielebni w Chrystusie ojcowie i wielmożny panie! Takim było nasze
+                        postanowienie i pragnienie, abyśmy, gdy tylko zostaliśmy powiadomieni o
+                        najcięższej chorobie, a niedługo potem o bolesnym zdarzeniu i śmierci
+                        najjaśniejszego pana naszego, bez zwłoki tam przybyli, zarówno w celu
+                        oddania honorów pogrzebowi tegoż pana naszego, jak i w celu naradzenia się z
+                        wami w sprawach, które dotyczyłyby i były niezbędne dla spokoju i
+                        bezpieczeństwa Królestwa oraz waszego. </p>
+                </div>
+            </div>
+
+
+            <div n="29" type="document">
+                <head>Nr. 29.</head>
+                <ab type="date-place">B. m. d. r. <supplied reason="reconstruction">( <placeName
+                            key="Gniezno" ref="http://www.wikidata.org/entity/Q51432">Gniezno</placeName>
+                    <date when="1501-06-19">19
+                            czerwca 1505</date>) </supplied>. </ab>
+                <ab type="summary">
+                    <persName key="Zygfryd Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q262986">Fryderyk</persName> do dostojników ruskich. </ab>
+                <ab type="source">Dwie kopje z Tomic. 22. P. 127 i 2. R. 115—116 </ab>
+                <div type="original" xml:lang="la">
+                    <p>
+                        <persName key="Zygfryd Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q673151">Zygfrydus</persName>...
+                        cardinalis <persName key="Łukasz Watzenrode"
+                            ref="http://www.wikidata.org/entity/Q1347063">Lucae</persName> Varmiensi
+                        episcopo, <persName key="Mikołaj Chrapicki"
+                            ref="http://www.wikidata.org/entity/Q11780713">Nicolao</persName>
+                        Culmensi episcopo, <persName key="Mikołaj Bażyński"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q148918">Nicolao de Baisen</persName>
+                        palatino Marienburgensi.</p>
+                    <p>Reverendi in Christo patres, magnificeque domine! Ea erat sententia et
+                        desiderium nostrum, ut quam primum certiores redditi simus de gravissima
+                        aegritudine ac deinde non multo post de acerbo casu et obitu ser<hi
+                            rend="superscript">mi</hi> domini nostri, istuc sine mora veniremus, cum
+                        cohonestandi funeris eiusdem domini nostri, tum etiam vobiscum consultandi
+                        causa de his, quae pertinerent et necessaria essent ad quietem et
+                        securitatem Regni et vestram.</p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Zygfryd... kardynał, do Łukasza, biskupa warmińskiego, Mikołaja, biskupa
+                        chełmińskiego, Mikołaja z Bażyn, wojewody malborskiego.</p>
+                    <p>Wielebni w Chrystusie ojcowie i wielmożny panie! Takim było nasze
+                        postanowienie i pragnienie, abyśmy, gdy tylko zostaliśmy powiadomieni o
+                        najcięższej chorobie, a niedługo potem o bolesnym zdarzeniu i śmierci
+                        najjaśniejszego pana naszego, bez zwłoki tam przybyli, zarówno w celu
+                        oddania honorów pogrzebowi tegoż pana naszego, jak i w celu naradzenia się z
+                        wami w sprawach, które dotyczyłyby i były niezbędne dla spokoju i
+                        bezpieczeństwa Królestwa oraz waszego. </p>
+                </div>
+            </div>
+
+            <div n="30" type="document">
+                <head>Nr. 30.</head>
+                <ab type="date-place">B. m. d. r. <supplied reason="reconstruction">( <placeName
+                            key="Gniezno" ref="http://www.wikidata.org/entity/Q51432">Gniezno</placeName>
+                    <date when="1501-06-19">19
+                            czerwca 1505</date>) </supplied>. </ab>
+                <ab type="summary">
+                    <persName key="Zygfryd Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q262986">Fryderyk</persName> do dostojników ruskich. </ab>
+                <ab type="source">Dwie kopje z Tomic. 22. P. 127 i 2. R. 115—116 </ab>
+                <div type="original" xml:lang="la">
+                    <p>
+                        <persName key="Zygfryd Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q673151">Zygfrydus</persName>...
+                        cardinalis <persName key="Łukasz Watzenrode"
+                            ref="http://www.wikidata.org/entity/Q1347063">Lucae</persName> Varmiensi
+                        episcopo, <persName key="Mikołaj Chrapicki"
+                            ref="http://www.wikidata.org/entity/Q11780713">Nicolao</persName>
+                        Culmensi episcopo, <persName key="Mikołaj Bażyński"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q148918">Nicolao de Baisen</persName>
+                        palatino Marienburgensi.</p>
+                    <p>Reverendi in Christo patres, magnificeque domine! Ea erat sententia et
+                        desiderium nostrum, ut quam primum certiores redditi simus de gravissima
+                        aegritudine ac deinde non multo post de acerbo casu et obitu ser<hi
+                            rend="superscript">mi</hi> domini nostri, istuc sine mora veniremus, cum
+                        cohonestandi funeris eiusdem domini nostri, tum etiam vobiscum consultandi
+                        causa de his, quae pertinerent et necessaria essent ad quietem et
+                        securitatem Regni et vestram.</p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Zygfryd... kardynał, do Łukasza, biskupa warmińskiego, Mikołaja, biskupa
+                        chełmińskiego, Mikołaja z Bażyn, wojewody malborskiego.</p>
+                    <p>Wielebni w Chrystusie ojcowie i wielmożny panie! Takim było nasze
+                        postanowienie i pragnienie, abyśmy, gdy tylko zostaliśmy powiadomieni o
+                        najcięższej chorobie, a niedługo potem o bolesnym zdarzeniu i śmierci
+                        najjaśniejszego pana naszego, bez zwłoki tam przybyli, zarówno w celu
+                        oddania honorów pogrzebowi tegoż pana naszego, jak i w celu naradzenia się z
+                        wami w sprawach, które dotyczyłyby i były niezbędne dla spokoju i
+                        bezpieczeństwa Królestwa oraz waszego. </p>
+                </div>
+            </div>
+
+            <div n="31" type="document">
+                <head>Nr. 31.</head>
+                <ab type="date-place">B. m. d. r. <supplied reason="reconstruction">( <placeName
+                            key="Gniezno" ref="http://www.wikidata.org/entity/Q51432">Gniezno</placeName>
+                    <date when="1501-06-19">19
+                            czerwca 1505</date>) </supplied>. </ab>
+                <ab type="summary">
+                    <persName key="Zygfryd Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q262986">Fryderyk</persName> do dostojników ruskich. </ab>
+                <ab type="source">Dwie kopje z Tomic. 22. P. 127 i 2. R. 115—116 </ab>
+                <div type="original" xml:lang="la">
+                    <p>
+                        <persName key="Zygfryd Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q673151">Zygfrydus</persName>...
+                        cardinalis <persName key="Łukasz Watzenrode"
+                            ref="http://www.wikidata.org/entity/Q1347063">Lucae</persName> Varmiensi
+                        episcopo, <persName key="Mikołaj Chrapicki"
+                            ref="http://www.wikidata.org/entity/Q11780713">Nicolao</persName>
+                        Culmensi episcopo, <persName key="Mikołaj Bażyński"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q148918">Nicolao de Baisen</persName>
+                        palatino Marienburgensi.</p>
+                    <p>Reverendi in Christo patres, magnificeque domine! Ea erat sententia et
+                        desiderium nostrum, ut quam primum certiores redditi simus de gravissima
+                        aegritudine ac deinde non multo post de acerbo casu et obitu ser<hi
+                            rend="superscript">mi</hi> domini nostri, istuc sine mora veniremus, cum
+                        cohonestandi funeris eiusdem domini nostri, tum etiam vobiscum consultandi
+                        causa de his, quae pertinerent et necessaria essent ad quietem et
+                        securitatem Regni et vestram.</p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Zygfryd... kardynał, do Łukasza, biskupa warmińskiego, Mikołaja, biskupa
+                        chełmińskiego, Mikołaja z Bażyn, wojewody malborskiego.</p>
+                    <p>Wielebni w Chrystusie ojcowie i wielmożny panie! Takim było nasze
+                        postanowienie i pragnienie, abyśmy, gdy tylko zostaliśmy powiadomieni o
+                        najcięższej chorobie, a niedługo potem o bolesnym zdarzeniu i śmierci
+                        najjaśniejszego pana naszego, bez zwłoki tam przybyli, zarówno w celu
+                        oddania honorów pogrzebowi tegoż pana naszego, jak i w celu naradzenia się z
+                        wami w sprawach, które dotyczyłyby i były niezbędne dla spokoju i
+                        bezpieczeństwa Królestwa oraz waszego. </p>
+                </div>
+            </div>
+
+            <div n="32" type="document">
+                <head>Nr. 32.</head>
+                <ab type="date-place">B. m. d. r. <supplied reason="reconstruction">( <placeName
+                            key="Gniezno" ref="http://www.wikidata.org/entity/Q51432">Gniezno</placeName>
+                    <date when="1501-06-19">19
+                            czerwca 1505</date>) </supplied>. </ab>
+                <ab type="summary">
+                    <persName key="Zygfryd Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q262986">Fryderyk</persName> do dostojników ruskich. </ab>
+                <ab type="source">Dwie kopje z Tomic. 22. P. 127 i 2. R. 115—116 </ab>
+                <div type="original" xml:lang="la">
+                    <p>
+                        <persName key="Zygfryd Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q673151">Zygfrydus</persName>...
+                        cardinalis <persName key="Łukasz Watzenrode"
+                            ref="http://www.wikidata.org/entity/Q1347063">Lucae</persName> Varmiensi
+                        episcopo, <persName key="Mikołaj Chrapicki"
+                            ref="http://www.wikidata.org/entity/Q11780713">Nicolao</persName>
+                        Culmensi episcopo, <persName key="Mikołaj Bażyński"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q148918">Nicolao de Baisen</persName>
+                        palatino Marienburgensi.</p>
+                    <p>Reverendi in Christo patres, magnificeque domine! Ea erat sententia et
+                        desiderium nostrum, ut quam primum certiores redditi simus de gravissima
+                        aegritudine ac deinde non multo post de acerbo casu et obitu ser<hi
+                            rend="superscript">mi</hi> domini nostri, istuc sine mora veniremus, cum
+                        cohonestandi funeris eiusdem domini nostri, tum etiam vobiscum consultandi
+                        causa de his, quae pertinerent et necessaria essent ad quietem et
+                        securitatem Regni et vestram.</p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Zygfryd... kardynał, do Łukasza, biskupa warmińskiego, Mikołaja, biskupa
+                        chełmińskiego, Mikołaja z Bażyn, wojewody malborskiego.</p>
+                    <p>Wielebni w Chrystusie ojcowie i wielmożny panie! Takim było nasze
+                        postanowienie i pragnienie, abyśmy, gdy tylko zostaliśmy powiadomieni o
+                        najcięższej chorobie, a niedługo potem o bolesnym zdarzeniu i śmierci
+                        najjaśniejszego pana naszego, bez zwłoki tam przybyli, zarówno w celu
+                        oddania honorów pogrzebowi tegoż pana naszego, jak i w celu naradzenia się z
+                        wami w sprawach, które dotyczyłyby i były niezbędne dla spokoju i
+                        bezpieczeństwa Królestwa oraz waszego. </p>
+                </div>
+            </div>
+
+            <div n="33" type="document">
+                <head>Nr. 33.</head>
+                <ab type="date-place">B. m. d. r. <supplied reason="reconstruction">( <placeName
+                            key="Gniezno" ref="http://www.wikidata.org/entity/Q51432">Gniezno</placeName>
+                    <date when="1501-06-19">19
+                            czerwca 1505</date>) </supplied>. </ab>
+                <ab type="summary">
+                    <persName key="Zygfryd Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q262986">Fryderyk</persName> do dostojników ruskich. </ab>
+                <ab type="source">Dwie kopje z Tomic. 22. P. 127 i 2. R. 115—116 </ab>
+                <div type="original" xml:lang="la">
+                    <p>
+                        <persName key="Zygfryd Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q673151">Zygfrydus</persName>...
+                        cardinalis <persName key="Łukasz Watzenrode"
+                            ref="http://www.wikidata.org/entity/Q1347063">Lucae</persName> Varmiensi
+                        episcopo, <persName key="Mikołaj Chrapicki"
+                            ref="http://www.wikidata.org/entity/Q11780713">Nicolao</persName>
+                        Culmensi episcopo, <persName key="Mikołaj Bażyński"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q148918">Nicolao de Baisen</persName>
+                        palatino Marienburgensi.</p>
+                    <p>Reverendi in Christo patres, magnificeque domine! Ea erat sententia et
+                        desiderium nostrum, ut quam primum certiores redditi simus de gravissima
+                        aegritudine ac deinde non multo post de acerbo casu et obitu ser<hi
+                            rend="superscript">mi</hi> domini nostri, istuc sine mora veniremus, cum
+                        cohonestandi funeris eiusdem domini nostri, tum etiam vobiscum consultandi
+                        causa de his, quae pertinerent et necessaria essent ad quietem et
+                        securitatem Regni et vestram.</p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Zygfryd... kardynał, do Łukasza, biskupa warmińskiego, Mikołaja, biskupa
+                        chełmińskiego, Mikołaja z Bażyn, wojewody malborskiego.</p>
+                    <p>Wielebni w Chrystusie ojcowie i wielmożny panie! Takim było nasze
+                        postanowienie i pragnienie, abyśmy, gdy tylko zostaliśmy powiadomieni o
+                        najcięższej chorobie, a niedługo potem o bolesnym zdarzeniu i śmierci
+                        najjaśniejszego pana naszego, bez zwłoki tam przybyli, zarówno w celu
+                        oddania honorów pogrzebowi tegoż pana naszego, jak i w celu naradzenia się z
+                        wami w sprawach, które dotyczyłyby i były niezbędne dla spokoju i
+                        bezpieczeństwa Królestwa oraz waszego. </p>
+                </div>
+            </div>
+
+            <div n="34" type="document">
+                <head>Nr. 34.</head>
+                <ab type="date-place">B. m. d. r. <supplied reason="reconstruction">( <placeName
+                            key="Gniezno" ref="http://www.wikidata.org/entity/Q51432">Gniezno</placeName>
+                    <date when="1501-06-19">19
+                            czerwca 1505</date>) </supplied>. </ab>
+                <ab type="summary">
+                    <persName key="Zygfryd Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q262986">Fryderyk</persName> do dostojników ruskich. </ab>
+                <ab type="source">Dwie kopje z Tomic. 22. P. 127 i 2. R. 115—116 </ab>
+                <div type="original" xml:lang="la">
+                    <p>
+                        <persName key="Zygfryd Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q673151">Zygfrydus</persName>...
+                        cardinalis <persName key="Łukasz Watzenrode"
+                            ref="http://www.wikidata.org/entity/Q1347063">Lucae</persName> Varmiensi
+                        episcopo, <persName key="Mikołaj Chrapicki"
+                            ref="http://www.wikidata.org/entity/Q11780713">Nicolao</persName>
+                        Culmensi episcopo, <persName key="Mikołaj Bażyński"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q148918">Nicolao de Baisen</persName>
+                        palatino Marienburgensi.</p>
+                    <p>Reverendi in Christo patres, magnificeque domine! Ea erat sententia et
+                        desiderium nostrum, ut quam primum certiores redditi simus de gravissima
+                        aegritudine ac deinde non multo post de acerbo casu et obitu ser<hi
+                            rend="superscript">mi</hi> domini nostri, istuc sine mora veniremus, cum
+                        cohonestandi funeris eiusdem domini nostri, tum etiam vobiscum consultandi
+                        causa de his, quae pertinerent et necessaria essent ad quietem et
+                        securitatem Regni et vestram.</p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Zygfryd... kardynał, do Łukasza, biskupa warmińskiego, Mikołaja, biskupa
+                        chełmińskiego, Mikołaja z Bażyn, wojewody malborskiego.</p>
+                    <p>Wielebni w Chrystusie ojcowie i wielmożny panie! Takim było nasze
+                        postanowienie i pragnienie, abyśmy, gdy tylko zostaliśmy powiadomieni o
+                        najcięższej chorobie, a niedługo potem o bolesnym zdarzeniu i śmierci
+                        najjaśniejszego pana naszego, bez zwłoki tam przybyli, zarówno w celu
+                        oddania honorów pogrzebowi tegoż pana naszego, jak i w celu naradzenia się z
+                        wami w sprawach, które dotyczyłyby i były niezbędne dla spokoju i
+                        bezpieczeństwa Królestwa oraz waszego. </p>
+                </div>
+            </div>
+
+            <div n="35" type="document">
+                <head>Nr. 35.</head>
+                <ab type="date-place">B. m. d. r. <supplied reason="reconstruction">( <placeName
+                            key="Gniezno" ref="http://www.wikidata.org/entity/Q51432">Gniezno</placeName>
+                    <date when="1501-06-19">19
+                            czerwca 1505</date>) </supplied>. </ab>
+                <ab type="summary">
+                    <persName key="Zygfryd Jagiellończyk"
+                        ref="http://www.wikidata.org/entity/Q262986">Fryderyk</persName> do dostojników ruskich. </ab>
+                <ab type="source">Dwie kopje z Tomic. 22. P. 127 i 2. R. 115—116 </ab>
+                <div type="original" xml:lang="la">
+                    <p>
+                        <persName key="Zygfryd Jagiellończyk"
+                            ref="http://www.wikidata.org/entity/Q673151">Zygfrydus</persName>...
+                        cardinalis <persName key="Łukasz Watzenrode"
+                            ref="http://www.wikidata.org/entity/Q1347063">Lucae</persName> Varmiensi
+                        episcopo, <persName key="Mikołaj Chrapicki"
+                            ref="http://www.wikidata.org/entity/Q11780713">Nicolao</persName>
+                        Culmensi episcopo, <persName key="Mikołaj Bażyński"
+                            ref="https://wikihum.lab.dariah.pl/entity/Q148918">Nicolao de Baisen</persName>
+                        palatino Marienburgensi.</p>
+                    <p>Reverendi in Christo patres, magnificeque domine! Ea erat sententia et
+                        desiderium nostrum, ut quam primum certiores redditi simus de gravissima
+                        aegritudine ac deinde non multo post de acerbo casu et obitu ser<hi
+                            rend="superscript">mi</hi> domini nostri, istuc sine mora veniremus, cum
+                        cohonestandi funeris eiusdem domini nostri, tum etiam vobiscum consultandi
+                        causa de his, quae pertinerent et necessaria essent ad quietem et
+                        securitatem Regni et vestram.</p>
+                </div>
+                <div type="translation" xml:lang="pl">
+                    <p>Zygfryd... kardynał, do Łukasza, biskupa warmińskiego, Mikołaja, biskupa
+                        chełmińskiego, Mikołaja z Bażyn, wojewody malborskiego.</p>
+                    <p>Wielebni w Chrystusie ojcowie i wielmożny panie! Takim było nasze
+                        postanowienie i pragnienie, abyśmy, gdy tylko zostaliśmy powiadomieni o
+                        najcięższej chorobie, a niedługo potem o bolesnym zdarzeniu i śmierci
+                        najjaśniejszego pana naszego, bez zwłoki tam przybyli, zarówno w celu
+                        oddania honorów pogrzebowi tegoż pana naszego, jak i w celu naradzenia się z
+                        wami w sprawach, które dotyczyłyby i były niezbędne dla spokoju i
+                        bezpieczeństwa Królestwa oraz waszego. </p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

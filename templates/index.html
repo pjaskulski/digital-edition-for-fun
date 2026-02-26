@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Acta Alexandri - Edycja Cyfrowa</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400&display=swap"
+        rel="stylesheet">
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+    <header class="bg-white border-bottom shadow-sm py-4 mb-5">
+        <div class="container d-flex justify-content-between align-items-center">
+            <h1 class="mb-0" style="color: #2c3e50; font-weight: 700;">
+                Acta Alexandri Regis Poloniae <span class="text-muted fs-4 fw-normal">(1501-1506)</span>
+            </h1>
+            <a href="{{ url_for('index_entities') }}" class="btn btn-outline-secondary btn-sm">📖 Indeksy</a>
+        </div>
+    </header>
+
+    <div class="container my-5">
+
+        <div class="row">
+            <div class="col-md-3">
+                <div class="card p-3 shadow-sm mb-4">
+                    <h5>Wyszukiwanie</h5>
+                    <form action="/" method="GET">
+                        <div class="mb-3">
+                            <input type="text" name="q" class="form-control" placeholder="Szukaj w tekście..."
+                                value="{{ q }}">
+                        </div>
+
+                        <h5 class="mt-4">Filtruj wg osoby</h5>
+                        <div class="mb-3 border rounded p-2 bg-white shadow-sm"
+                            style="max-height: 200px; overflow-y: auto;">
+                            {% for p in persons %}
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" name="person" value="{{ p }}"
+                                    id="person_{{ loop.index }}" {% if p in sel_persons %}checked{% endif %}>
+                                <label class="form-check-label small" for="person_{{ loop.index }}">{{ p }}</label>
+                            </div>
+                            {% endfor %}
+                        </div>
+
+                        <h5>Filtruj wg miejsca</h5>
+                        <div class="mb-3 border rounded p-2 bg-white shadow-sm"
+                            style="max-height: 200px; overflow-y: auto;">
+                            {% for p in places %}
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" name="place" value="{{ p }}"
+                                    id="place_{{ loop.index }}" {% if p in sel_places %}checked{% endif %}>
+                                <label class="form-check-label small" for="place_{{ loop.index }}">{{ p }}</label>
+                            </div>
+                            {% endfor %}
+                        </div>
+
+                        <button type="submit" class="btn btn-primary w-100 fw-bold">Zastosuj filtry</button>
+                        <a href="/" class="btn btn-outline-secondary w-100 mt-2">Wyczyść filtry</a>
+                    </form>
+                </div>
+            </div>
+
+            <div class="col-md-9">
+                <h4 class="mb-3">Znaleziono dokumentów: {{ total_results }}</h4>
+                {% for doc in docs %}
+                <div class="card shadow-sm mb-3">
+                    <div class="card-body">
+                        <h5 class="card-title">{{ doc.title }}</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">{{ doc.date_place_plain }}</h6>
+                        <p class="card-text"><em>{{ doc.summary_short }}</em></p>
+                        {% if doc.source_html %}
+                        <p class="card-text small text-muted fst-italic mt-2 mb-0 text-end">{{ doc.source_html | safe }}
+                        </p>
+                        {% endif %}
+                        <a href="{{ url_for('document', doc_id=doc.id) }}?q={{ q }}"
+                            class="btn btn-primary btn-sm">Czytaj dokument</a>
+                    </div>
+                </div>
+                {% endfor %}
+
+                {% if total_pages > 1 %}
+                <nav aria-label="Nawigacja stron" class="mt-5 mb-4">
+                    <ul class="pagination justify-content-center">
+
+                        {% if total_pages > 1 %}
+                        <nav aria-label="Nawigacja stron" class="mt-5 mb-4">
+                            <ul class="pagination justify-content-center">
+
+                                <li class="page-item {% if page == 1 %}disabled{% endif %}">
+                                    <a class="page-link" href="?{{ base_query }}&page=1" aria-label="Pierwsza">
+                                        <span aria-hidden="true">&laquo;&laquo;</span>
+                                    </a>
+                                </li>
+
+                                <li class="page-item {% if page == 1 %}disabled{% endif %}">
+                                    <a class="page-link" href="?{{ base_query }}&page={{ page - 1 }}"
+                                        aria-label="Poprzednia">
+                                        <span aria-hidden="true">&lsaquo;</span>
+                                    </a>
+                                </li>
+
+                                {% for p in iter_pages %}
+                                {% if p %}
+                                <li class="page-item {% if p == page %}active{% endif %}">
+                                    <a class="page-link" href="?{{ base_query }}&page={{ p }}">{{ p }}</a>
+                                </li>
+                                {% else %}
+                                <li class="page-item disabled">
+                                    <span class="page-link text-muted border-0 bg-transparent">...</span>
+                                </li>
+                                {% endif %}
+                                {% endfor %}
+
+                                <li class="page-item {% if page == total_pages %}disabled{% endif %}">
+                                    <a class="page-link" href="?{{ base_query }}&page={{ page + 1 }}"
+                                        aria-label="Następna">
+                                        <span aria-hidden="true">&rsaquo;</span>
+                                    </a>
+                                </li>
+
+                                <li class="page-item {% if page == total_pages %}disabled{% endif %}">
+                                    <a class="page-link" href="?{{ base_query }}&page={{ total_pages }}"
+                                        aria-label="Ostatnia">
+                                        <span aria-hidden="true">&raquo;&raquo;</span>
+                                    </a>
+                                </li>
+
+                            </ul>
+                        </nav>
+                        {% endif %}
+                    </ul>
+                </nav>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const urlParams = new URLSearchParams(window.location.search);
+            const query = urlParams.get('q');
+            if (query) {
+                var instance = new Mark(document.querySelectorAll(".card-body"));
+                instance.mark(query, { "className": "bg-warning text-dark rounded px-1" });
+            }
+        });
+    </script>
+</body>
+
+</html>
