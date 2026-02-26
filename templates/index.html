@@ -29,7 +29,8 @@
             <div class="col-md-3">
                 <div class="card p-3 shadow-sm mb-4">
                     <h5>Wyszukiwanie</h5>
-                    <form action="{{ url_for('index') }}" method="GET"></form>
+                    <!-- <form action="{{ url_for('index') }}" method="GET"></form> -->
+                    <form method="GET"></form>
                         <div class="mb-3">
                             <input type="text" name="q" class="form-control" placeholder="Szukaj w tekście..."
                                 value="{{ q }}">
